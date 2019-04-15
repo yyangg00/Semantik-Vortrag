@@ -1,0 +1,868 @@
+CODE,TREE,LOCALITY,SPECIES,LATITUDE,LONGITUDE,ALTITUDE,COUNTRY,ORIGIN,STAND,EXTRACTION #,HAPLOTYPE,Colour
+P4-001,1,Dinnet,Intermediate,57.074,-2.899,165,Scotland,autochthonus,Forest,DIN1,10,White
+P4-001,2,Dinnet,Quercus robur,57.074,-2.899,165,Scotland,autochthonus,Forest,DIN2,10,White
+P4-001,3,Dinnet,Intermediate,57.074,-2.899,165,Scotland,autochthonus,Forest,DIN3,10,White
+P4-001,4,Dinnet,-,57.074,-2.899,165,Scotland,autochthonus,Forest,DIN4,10,White
+P4-001,5,Dinnet,Intermediate,57.074,-2.899,165,Scotland,autochthonus,Forest,DIN5,10,White
+P4-002,1,Chatelherault,-,55.762,-4.011,76,Scotland,autochthonus,Forest,CHAT1,9,Orange
+P4-002,2,Chatelherault,-,55.762,-4.011,76,Scotland,autochthonus,Forest,CHAT2,9,Orange
+P4-002,3,Chatelherault,-,55.762,-4.011,76,Scotland,autochthonus,Forest,CHAT3,9,Orange
+P4-002,4,Chatelherault,-,55.762,-4.011,76,Scotland,autochthonus,Forest,CHAT4,9,Orange
+P4-002,5,Chatelherault,-,55.762,-4.011,76,Scotland,autochthonus,Forest,CHAT5,9,Orange
+P4-003,1,Mains Estate,-,55.939,-4.347,100,Scotland,autochthonus,Forest,MAIN1,9,Orange
+P4-003,2,Mains Estate,-,55.939,-4.347,100,Scotland,autochthonus,Forest,MAIN2,9,Orange
+P4-003,3,Mains Estate,-,55.939,-4.347,100,Scotland,autochthonus,Forest,MAIN3,10,White
+P4-003,4,Mains Estate,-,55.939,-4.347,100,Scotland,autochthonus,Forest,MAIN4,9,Orange
+P4-003,5,Mains Estate,-,55.939,-4.347,100,Scotland,autochthonus,Forest,MAIN5,9,Orange
+P4-004,1,Muir of Dinnet,Quercus petraea,57.065,-2.932,180,Scotland,autochthonus,Forest,DIN6,10,White
+P4-004,2,Muir of Dinnet,-,57.065,-2.932,180,Scotland,autochthonus,Forest,DIN7,10,White
+P4-004,3,Muir of Dinnet,Intermediate,57.065,-2.932,180,Scotland,autochthonus,Forest,DIN8,10,White
+P4-004,4,Muir of Dinnet,Quercus petraea,57.065,-2.932,180,Scotland,autochthonus,Forest,DIN9,10,White
+P4-004,5,Muir of Dinnet,Intermediate,57.065,-2.932,180,Scotland,autochthonus,Forest,DIN11,10,White
+P4-005,1,Strone,Quercus petraea,56.404,-4.909,76,Scotland,autochthonus,Forest,STRO1,9,Orange
+P4-005,2,Strone,-,56.404,-4.909,76,Scotland,autochthonus,Forest,STRO2,9,Orange
+P4-005,3,Strone,Quercus petraea,56.404,-4.909,76,Scotland,autochthonus,Forest,STRO3,9,Orange
+P4-005,4,Strone,Quercus petraea,56.404,-4.909,76,Scotland,autochthonus,Forest,STRO4,9,Orange
+P4-005,5,Strone,Quercus petraea,56.404,-4.909,76,Scotland,autochthonus,Forest,STRO5,9,Orange
+P4-006,1,Dalavich,Quercus petraea,56.264,-5.28,50,Scotland,autochthonus,Forest,DALA1 ,9,Orange
+P4-006,2,Dalavich,-,56.264,-5.28,50,Scotland,autochthonus,Forest,DALA2,9,Orange
+P4-006,3,Dalavich,Quercus petraea,56.264,-5.28,50,Scotland,autochthonus,Forest,DALA3,9,Orange
+P4-006,4,Dalavich,Quercus petraea,56.264,-5.28,50,Scotland,autochthonus,Forest,DALA4,9,Orange
+P4-006,5,Dalavich,Quercus petraea,56.264,-5.28,50,Scotland,autochthonus,Forest,DALA5,9,Orange
+P4-007,1,Glennant ,Intermediate,56.412,-5.218,76,Scotland,autochthonus,Forest,GLNN1,9,Orange
+P4-007,2,Glennant ,Intermediate,56.412,-5.218,76,Scotland,autochthonus,Forest,GLNN2,9,Orange
+P4-007,3,Glennant ,Intermediate,56.412,-5.218,76,Scotland,autochthonus,Forest,GLNN3,9,Orange
+P4-007,4,Glennant ,Intermediate,56.412,-5.218,76,Scotland,autochthonus,Forest,GLNN4,9,Orange
+P4-007,5,Glennant ,Quercus petraea,56.412,-5.218,76,Scotland,autochthonus,Forest,GLNN5,9,Orange
+P4-008,1,Taynish,-,55.987,-5.646,10,Scotland,autochthonus,Forest,TAYN1,9,Orange
+P4-008,2,Taynish,-,55.987,-5.646,10,Scotland,autochthonus,Forest,TAYN2,9,Orange
+P4-008,3,Taynish,Quercus petraea,55.987,-5.646,10,Scotland,autochthonus,Forest,TAYN3,9,Orange
+P4-008,4,Taynish,-,55.987,-5.646,10,Scotland,autochthonus,Forest,TAYN4,9,Orange
+P4-008,5,Taynish,Quercus petraea,55.987,-5.646,10,Scotland,autochthonus,Forest,TAYN5,9,Orange
+P4-009,1,Glengallain,Quercus robur,56.314,-5.478,122,Scotland,autochthonus,Forest,GLEG1,10,White
+P4-009,2,Glengallain,Intermediate,56.314,-5.478,122,Scotland,autochthonus,Forest,GLEG2,10,White
+P4-009,3,Glengallain,Quercus robur,56.314,-5.478,122,Scotland,autochthonus,Forest,GLEG3,10,White
+P4-009,4,Glengallain,Quercus robur,56.314,-5.478,122,Scotland,autochthonus,Forest,GLEG4,10,White
+P4-009,5,Glengallain,Intermediate,56.314,-5.478,122,Scotland,autochthonus,Forest,GLEG5,10,White
+P4-010,1,Cloanaig,Quercus petraea,55.756,-5.395,30,Scotland,autochthonus,Forest,CLOA1,9,Orange
+P4-010,2,Cloanaig,-,55.756,-5.395,30,Scotland,autochthonus,Forest,CLOA2,9,Orange
+P4-010,3,Cloanaig,Quercus petraea,55.756,-5.395,30,Scotland,autochthonus,Forest,CLOA3,9,Orange
+P4-010,4,Cloanaig,Quercus petraea,55.756,-5.395,30,Scotland,autochthonus,Forest,CLOA4,9,Orange
+P4-010,5,Cloanaig,Quercus petraea,55.756,-5.395,30,Scotland,autochthonus,Forest,CLOA5,9,Orange
+P4-011,1,Dunloskin,Quercus robur,55.958,-4.941,122,Scotland,autochthonus,Forest,DUNL1,9,Orange
+P4-011,2,Dunloskin,Quercus robur,55.958,-4.941,122,Scotland,autochthonus,Forest,DUNL2,9,Orange
+P4-011,3,Dunloskin,Quercus robur,55.958,-4.941,122,Scotland,autochthonus,Forest,DUNL3,9,Orange
+P4-011,4,Dunloskin,Intermediate,55.958,-4.941,122,Scotland,autochthonus,Forest,DUNL4,9,Orange
+P4-011,5,Dunloskin,Intermediate,55.958,-4.941,122,Scotland,autochthonus,Forest,DUNL5,9,Orange
+P4-012,1,Glenan,Quercus petraea,55.879,-5.311,15,Scotland,autochthonus,Forest,GLEA1,9,Orange
+P4-012,2,Glenan,Quercus petraea,55.879,-5.311,15,Scotland,autochthonus,Forest,GLEA2,9,Orange
+P4-012,3,Glenan,Quercus petraea,55.879,-5.311,15,Scotland,autochthonus,Forest,GLEA3,9,Orange
+P4-012,4,Glenan,Intermediate,55.879,-5.311,15,Scotland,autochthonus,Forest,GLEA4,9,Orange
+P4-012,5,Glenan,Intermediate,55.879,-5.311,15,Scotland,autochthonus,Forest,GLEA5,9,Orange
+P4-013,1,North Sannox,Intermediate,55.673,-5.159,15,Scotland,autochthonus,Forest,SANN1,9,Orange
+P4-013,2,North Sannox,Intermediate,55.673,-5.159,15,Scotland,autochthonus,Forest,SANN2,9,Orange
+P4-013,3,North Sannox,Intermediate,55.673,-5.159,15,Scotland,autochthonus,Forest,SANN3,9,Orange
+P4-013,4,North Sannox,Intermediate,55.673,-5.159,15,Scotland,autochthonus,Forest,SANN4,9,Orange
+P4-013,5,North Sannox,Intermediate,55.673,-5.159,15,Scotland,autochthonus,Forest,SANN5,9,Orange
+P4-014,1,Dougarie,Intermediate,55.589,-5.369,76,Scotland,autochthonus,Forest,DOUG1,9,Orange
+P4-014,2,Dougarie,Quercus petraea,55.589,-5.369,76,Scotland,autochthonus,Forest,DOUG2,9,Orange
+P4-014,3,Dougarie,Quercus robur,55.589,-5.369,76,Scotland,autochthonus,Forest,DOUG3,9,Orange
+P4-014,4,Dougarie,Quercus petraea,55.589,-5.369,76,Scotland,autochthonus,Forest,DOUG4,9,Orange
+P4-014,5,Dougarie,Quercus petraea,55.589,-5.369,76,Scotland,autochthonus,Forest,DOUG5,9,Orange
+P4-015,1,Dalkeith,Quercus robur,55.91,-3.043,60,Scotland,autochthonus,Forest,DAL1,9,Orange
+P4-015,2,Dalkeith,Quercus robur,55.91,-3.043,60,Scotland,autochthonus,Forest,DAL2,9,Orange
+P4-015,3,Dalkeith,Quercus petraea,55.91,-3.043,60,Scotland,autochthonus,Forest,DAL3,9,Orange
+P4-015,4,Dalkeith,Quercus petraea,55.91,-3.043,60,Scotland,autochthonus,Forest,DAL4,9,Orange
+P4-015,5,Dalkeith,Quercus petraea,55.91,-3.043,60,Scotland,autochthonus,Forest,DAL5,9,Orange
+P4-016,1,Dunnerdale,Quercus petraea,54.312,-3.191,155,England,autochthonus,Forest,DUN1,9,Orange
+P4-016,2,Dunnerdale,Quercus petraea,54.312,-3.191,155,England,autochthonus,Forest,DUN2,9,Orange
+P4-016,3,Dunnerdale,Quercus petraea,54.312,-3.191,155,England,autochthonus,Forest,DUN3,9,Orange
+P4-016,4,Dunnerdale,Quercus petraea,54.312,-3.191,155,England,autochthonus,Forest,DUN4,9,Orange
+P4-016,5,Dunnerdale,Quercus petraea,54.312,-3.191,155,England,autochthonus,Forest,DUN5,9,Orange
+P4-017,1,Ulfa Fell,Quercus petraea,54.224,-2.836,30,England,autochthonus,Forest,ULF1,8,Yellow
+P4-017,2,Ulfa Fell,Quercus petraea,54.224,-2.836,30,England,autochthonus,Forest,ULF2,8,Yellow
+P4-017,3,Ulfa Fell,Quercus petraea,54.224,-2.836,30,England,autochthonus,Forest,ULF3,8,Yellow
+P4-017,4,Ulfa Fell,Quercus petraea,54.224,-2.836,30,England,autochthonus,Forest,ULF4,8,Yellow
+P4-017,5,Ulfa Fell,Quercus petraea,54.224,-2.836,30,England,autochthonus,Forest,ULF5,8,Yellow
+P4-018,1,Seatle,Quercus petraea,54.245,-2.947,90,England,autochthonus,Forest,SEA1,9,Orange
+P4-018,2,Seatle,Quercus petraea,54.245,-2.947,90,England,autochthonus,Forest,SEA2,9,Orange
+P4-018,3,Seatle,Quercus petraea,54.245,-2.947,90,England,autochthonus,Forest,SEA3,9,Orange
+P4-018,4,Seatle,Quercus petraea,54.245,-2.947,90,England,autochthonus,Forest,SEA4,9,Orange
+P4-018,5,Seatle,Quercus petraea,54.245,-2.947,90,England,autochthonus,Forest,SEA5,9,Orange
+P4-019,1,Scaleswood,Quercus petraea,54.537,-3.291,230,England,autochthonus,Forest,SCA1,9,Orange
+P4-019,2,Scaleswood,Quercus petraea,54.537,-3.291,230,England,autochthonus,Forest,SCA2,9,Orange
+P4-019,3,Scaleswood,Quercus petraea,54.537,-3.291,230,England,autochthonus,Forest,SCA3,9,Orange
+P4-019,4,Scaleswood,Quercus petraea,54.537,-3.291,230,England,autochthonus,Forest,SCA4,9,Orange
+P4-019,5,Scaleswood,Quercus petraea,54.537,-3.291,230,England,autochthonus,Forest,SCA5,9,Orange
+P4-020,1,Naddlelow,Quercus petraea,54.441,-2.779,310,England,autochthonus,Forest,NAD1,9,Orange
+P4-020,2,Naddlelow,Quercus petraea,54.441,-2.779,310,England,autochthonus,Forest,NAD2,9,Orange
+P4-020,3,Naddlelow,Quercus petraea,54.441,-2.779,310,England,autochthonus,Forest,NAD3,9,Orange
+P4-020,4,Naddlelow,Quercus petraea,54.441,-2.779,310,England,autochthonus,Forest,NAD4,9,Orange
+P4-020,5,Naddlelow,Quercus petraea,54.441,-2.779,310,England,autochthonus,Forest,NAD5,9,Orange
+P4-021,1,Ennerdale,Quercus petraea,54.578,-3.352,140,England,autochthonus,Forest,ENN1,9,Orange
+P4-021,2,Ennerdale,Quercus petraea,54.578,-3.352,140,England,autochthonus,Forest,ENN2,9,Orange
+P4-021,3,Ennerdale,Quercus petraea,54.578,-3.352,140,England,autochthonus,Forest,ENN3,9,Orange
+P4-021,4,Ennerdale,Quercus petraea,54.578,-3.352,140,England,autochthonus,Forest,ENN4,9,Orange
+P4-021,5,Ennerdale,Quercus petraea,54.578,-3.352,140,England,autochthonus,Forest,ENN5,9,Orange
+P4-022,1,Lowwood Hartsop,Quercus petraea,54.509,-2.927,200,England,autochthonus,Forest,LOW1,9,Orange
+P4-022,2,Lowwood Hartsop,Quercus petraea,54.509,-2.927,200,England,autochthonus,Forest,LOW2,9,Orange
+P4-022,3,Lowwood Hartsop,Quercus petraea,54.509,-2.927,200,England,autochthonus,Forest,LOW3,9,Orange
+P4-022,4,Lowwood Hartsop,Quercus petraea,54.509,-2.927,200,England,autochthonus,Forest,LOW4,9,Orange
+P4-022,5,Lowwood Hartsop,Quercus petraea,54.509,-2.927,200,England,autochthonus,Forest,LOW5,9,Orange
+P4-023,1,Keskadale,Quercus petraea,54.564,-3.225,385,England,autochthonus,Forest,KES1,9,Orange
+P4-023,2,Keskadale,Quercus petraea,54.564,-3.225,385,England,autochthonus,Forest,KES2,9,Orange
+P4-023,3,Keskadale,Quercus petraea,54.564,-3.225,385,England,autochthonus,Forest,KES3,9,Orange
+P4-023,4,Keskadale,Quercus petraea,54.564,-3.225,385,England,autochthonus,Forest,KES4,9,Orange
+P4-023,5,Keskadale,Quercus petraea,54.564,-3.225,385,England,autochthonus,Forest,KES5,9,Orange
+P4-024,1,Seathwaite,Quercus petraea,54.354,-3.185,140,England,autochthonus,Forest,SEAT1,9,Orange
+P4-024,2,Seathwaite,Quercus petraea,54.354,-3.185,140,England,autochthonus,Forest,SEAT2,9,Orange
+P4-024,3,Seathwaite,Quercus petraea,54.354,-3.185,140,England,autochthonus,Forest,SEAT3,9,Orange
+P4-024,4,Seathwaite,Quercus petraea,54.354,-3.185,140,England,autochthonus,Forest,SEAT4,9,Orange
+P4-024,5,Seathwaite,Quercus petraea,54.354,-3.185,140,England,autochthonus,Forest,SEAT5,9,Orange
+P4-025,1,Greatend Crag,Quercus petraea,54.542,-3.149,155,England,autochthonus,Forest,GREAC1,9,Orange
+P4-025,2,Greatend Crag,Quercus petraea,54.542,-3.149,155,England,autochthonus,Forest,GREAC2,9,Orange
+P4-025,3,Greatend Crag,Quercus petraea,54.542,-3.149,155,England,autochthonus,Forest,GREAC3,9,Orange
+P4-025,4,Greatend Crag,Quercus petraea,54.542,-3.149,155,England,autochthonus,Forest,GREAC4,9,Orange
+P4-025,5,Greatend Crag,Quercus petraea,54.542,-3.149,155,England,autochthonus,Forest,GREAC5,9,Orange
+P4-026,1,Guise Cliff,Quercus petraea,54.065,-1.743,250,England,autochthonus,Forest,GC1,9,Orange
+P4-026,2,Guise Cliff,Quercus petraea,54.065,-1.743,250,England,autochthonus,Forest,GC2,9,Orange
+P4-026,3,Guise Cliff,Quercus petraea,54.065,-1.743,250,England,autochthonus,Forest,GC3,9,Orange
+P4-026,4,Guise Cliff,Quercus petraea,54.065,-1.743,250,England,autochthonus,Forest,GC4,9,Orange
+P4-026,5,Guise Cliff,Quercus petraea,54.065,-1.743,250,England,autochthonus,Forest,GC5,9,Orange
+P4-027,1,Silkstone Fall,Quercus petraea,53.547,-1.654,122,England,autochthonus,Forest ,SILK1,8,Yellow
+P4-027,2,Silkstone Fall,Quercus petraea,53.547,-1.654,122,England,autochthonus,Forest ,SILK2,8,Yellow
+P4-027,3,Silkstone Fall,Quercus petraea,53.547,-1.654,122,England,autochthonus,Forest ,SILK3,8,Yellow
+P4-027,4,Silkstone Fall,Quercus petraea,53.547,-1.654,122,England,autochthonus,Forest ,SILK4,8,Yellow
+P4-027,5,Silkstone Fall,Quercus petraea,53.547,-1.654,122,England,autochthonus,Forest ,SILK5,8,Yellow
+P4-028,1,Tom Royd Wood,Quercus petraea,53.521,-1.554,152,England,autochthonus,Forest ,ROYD1,8,Yellow
+P4-028,2,Tom Royd Wood,Intermediate,53.521,-1.554,152,England,autochthonus,Forest ,ROYD2,8,Yellow
+P4-028,3,Tom Royd Wood,Quercus petraea,53.521,-1.554,152,England,autochthonus,Forest ,ROYD3,8,Yellow
+P4-028,4,Tom Royd Wood,Quercus petraea,53.521,-1.554,152,England,autochthonus,Forest ,ROYD4,8,Yellow
+P4-028,5,Tom Royd Wood,Quercus petraea,53.521,-1.554,152,England,autochthonus,Forest ,ROYD5,8,Yellow
+P4-029,1,Pilley,-,53.547,-1.654,152,England,autochthonus,Forest ,PILL1,8,Yellow
+P4-029,2,Pilley,-,53.547,-1.654,152,England,autochthonus,Forest ,PILL6,10,White
+P4-029,3,Pilley,-,53.547,-1.654,152,England,autochthonus,Forest ,PILL3,8,Yellow
+P4-029,4,Pilley,-,53.547,-1.654,152,England,autochthonus,Forest ,PILL4,8,Yellow
+P4-029,5,Pilley,-,53.547,-1.654,152,England,autochthonus,Forest ,PILL5,10,White
+P4-030,1,Beck Hole,Quercus petraea,54.411,-0.729,107,England,autochthonus,Forest,BEC1,9,Orange
+P4-030,2,Beck Hole,Intermediate,54.411,-0.729,107,England,autochthonus,Forest,BEC1,9,Orange
+P4-030,3,Beck Hole,Quercus petraea,54.411,-0.729,107,England,autochthonus,Forest,BEC1,9,Orange
+P4-030,4,Beck Hole,Quercus petraea,54.411,-0.729,107,England,autochthonus,Forest,BEC1,9,Orange
+P4-030,5,Beck Hole,Quercus petraea,54.411,-0.729,107,England,autochthonus,Forest,BEC1,9,Orange
+P4-031,1,Scar End Wood,Intermediate,54.38,-0.791,213,England,autochthonus,Forest,SEW1,9,Orange
+P4-031,2,Scar End Wood,Quercus petraea,54.38,-0.791,213,England,autochthonus,Forest,SEW2,9,Orange
+P4-031,3,Scar End Wood,Intermediate,54.38,-0.791,213,England,autochthonus,Forest,SEW3,9,Orange
+P4-031,4,Scar End Wood,Intermediate,54.38,-0.791,213,England,autochthonus,Forest,SEW4,9,Orange
+P4-031,5,Scar End Wood,Intermediate,54.38,-0.791,213,England,autochthonus,Forest,SEW5,9,Orange
+P4-032,1,Newtondale,Quercus robur,54.329,-0.731,137,England,autochthonus,Forest,NEW1,9,Orange
+P4-032,2,Newtondale,Quercus robur,54.329,-0.731,137,England,autochthonus,Forest,NEW2,9,Orange
+P4-032,3,Newtondale,Intermediate,54.329,-0.731,137,England,autochthonus,Forest,NEW3,9,Orange
+P4-032,4,Newtondale,Quercus petraea,54.329,-0.731,137,England,autochthonus,Forest,NEW4,9,Orange
+P4-032,5,Newtondale,Intermediate,54.329,-0.731,137,England,autochthonus,Forest,NEW5,9,Orange
+P4-033,1,The Griffs,Quercus petraea,54.322,-0.715,152,England,autochthonus,Forest,GRI1,9,Orange
+P4-033,2,The Griffs,Intermediate,54.322,-0.715,152,England,autochthonus,Forest,GRI2,9,Orange
+P4-033,3,The Griffs,Quercus petraea,54.322,-0.715,152,England,autochthonus,Forest,GRI3,9,Orange
+P4-033,4,The Griffs,Intermediate,54.322,-0.715,152,England,autochthonus,Forest,GRI4,-,-
+P4-033,5,The Griffs,Quercus robur,54.322,-0.715,152,England,autochthonus,Forest,GRI5,9,Orange
+P4-034,1,Horcum,Quercus petraea,54.323,-0.705,183,England,autochthonus,Forest,HOR1,9,Orange
+P4-034,2,Horcum,Quercus petraea,54.323,-0.705,183,England,autochthonus,Forest,HOR2,9,Orange
+P4-034,3,Horcum,Intermediate,54.323,-0.705,183,England,autochthonus,Forest,HOR3,9,Orange
+P4-034,4,Horcum,Intermediate,54.323,-0.705,183,England,autochthonus,Forest,HOR4,9,Orange
+P4-034,5,Horcum,Quercus petraea,54.323,-0.705,183,England,autochthonus,Forest,HOR5,9,Orange
+P4-035,1,Burn Howe Moor,Quercus petraea,54.369,-0.544,122,England,autochthonus,Forest,BHM1,9,Orange
+P4-035,2,Burn Howe Moor,Intermediate,54.369,-0.544,122,England,autochthonus,Forest,BHM2,9,Orange
+P4-035,3,Burn Howe Moor,Quercus petraea,54.369,-0.544,122,England,autochthonus,Forest,BHM3,9,Orange
+P4-035,4,Burn Howe Moor,Quercus petraea,54.369,-0.544,122,England,autochthonus,Forest,BHM4,9,Orange
+P4-035,5,Burn Howe Moor,Quercus petraea,54.369,-0.544,122,England,autochthonus,Forest,BHM5,9,Orange
+P4-036,1,Scar Wood,Intermediate,54.365,-0.542,122,England,autochthonus,Forest,SCW1,9,Orange
+P4-036,2,Scar Wood,Quercus petraea,54.365,-0.542,122,England,autochthonus,Forest,SCW2,9,Orange
+P4-036,3,Scar Wood,Intermediate,54.365,-0.542,122,England,autochthonus,Forest,SCW3,9,Orange
+P4-036,4,Scar Wood,Intermediate,54.365,-0.542,122,England,autochthonus,Forest,SCW4,9,Orange
+P4-036,5,Scar Wood,Intermediate,54.365,-0.542,122,England,autochthonus,Forest,SCW5,9,Orange
+P4-037,1,Levisham Station ,Intermediate,54.31,-0.74,91,England,autochthonus,Forest,LEV1,9,Orange
+P4-037,2,Levisham Station ,Intermediate,54.31,-0.74,91,England,autochthonus,Forest,LEV2,9,Orange
+P4-037,3,Levisham Station ,Quercus petraea,54.31,-0.74,91,England,autochthonus,Forest,LEV3,9,Orange
+P4-037,4,Levisham Station ,Quercus petraea,54.31,-0.74,91,England,autochthonus,Forest,LEV4,9,Orange
+P4-037,5,Levisham Station ,Quercus robur,54.31,-0.74,91,England,autochthonus,Forest,LEV5,9,Orange
+P4-038,1,Ness Head,Intermediate,54.292,-0.729,76,England,autochthonus,Forest,NEH1,9,Orange
+P4-038,2,Ness Head,Quercus robur,54.292,-0.729,76,England,autochthonus,Forest,NEH2,9,Orange
+P4-038,3,Ness Head,Intermediate,54.292,-0.729,76,England,autochthonus,Forest,NEH3,9,Orange
+P4-038,4,Ness Head,Quercus petraea,54.292,-0.729,76,England,autochthonus,Forest,NEH4,9,Orange
+P4-038,5,Ness Head,Quercus petraea,54.292,-0.729,76,England,autochthonus,Forest,NEH5,10,White
+P4-039,1,Coedydd Aber,Quercus petraea,53.232,-4.003,155,Wales,autochthonus,Forest,CAB1,9,Orange
+P4-039,2,Coedydd Aber,Quercus petraea,53.232,-4.003,155,Wales,autochthonus,Forest,CAB2,9,Orange
+P4-039,3,Coedydd Aber,Quercus petraea,53.232,-4.003,155,Wales,autochthonus,Forest,CAB3,9,Orange
+P4-039,4,Coedydd Aber,Quercus petraea,53.232,-4.003,155,Wales,autochthonus,Forest,CAB4,9,Orange
+P4-039,5,Coedydd Aber,Quercus petraea,53.232,-4.003,155,Wales,autochthonus,Forest,CAB5,9,Orange
+P4-040,1,Coed Rheidol,Quercus petraea,52.387,-3.848,155,Wales,autochthonus,Forest,CR1,9,Orange
+P4-040,2,Coed Rheidol,Quercus petraea,52.387,-3.848,155,Wales,autochthonus,Forest,CR2,9,Orange
+P4-040,3,Coed Rheidol,Quercus petraea,52.387,-3.848,155,Wales,autochthonus,Forest,CR3,9,Orange
+P4-040,4,Coed Rheidol,Quercus petraea,52.387,-3.848,155,Wales,autochthonus,Forest,CR4,9,Orange
+P4-040,5,Coed Rheidol,Quercus petraea,52.387,-3.848,155,Wales,autochthonus,Forest,CR5,9,Orange
+P4-041,1,Coed Y Rhygen,Quercus petraea,52.913,-3.962,230,Wales,autochthonus,Forest,CYR1,9,Orange
+P4-041,2,Coed Y Rhygen,Quercus petraea,52.913,-3.962,230,Wales,autochthonus,Forest,CYR2,9,Orange
+P4-041,3,Coed Y Rhygen,Quercus petraea,52.913,-3.962,230,Wales,autochthonus,Forest,CYR3,9,Orange
+P4-041,4,Coed Y Rhygen,Quercus petraea,52.913,-3.962,230,Wales,autochthonus,Forest,CYR4,9,Orange
+P4-041,5,Coed Y Rhygen,Quercus petraea,52.913,-3.962,230,Wales,autochthonus,Forest,CYR5,9,Orange
+P4-042,1,Gallt Y Bwlch,Quercus robur,52.967,-4.465,155,Wales,autochthonus,Forest,GYB1,9,Orange
+P4-042,2,Gallt Y Bwlch,Intermediate,52.967,-4.465,155,Wales,autochthonus,Forest,GYB2,9,Orange
+P4-042,3,Gallt Y Bwlch,Intermediate,52.967,-4.465,155,Wales,autochthonus,Forest,GYB3,9,Orange
+P4-042,4,Gallt Y Bwlch,Intermediate,52.967,-4.465,155,Wales,autochthonus,Forest,GYB4,9,Orange
+P4-042,5,Gallt Y Bwlch,Intermediate,52.967,-4.465,155,Wales,autochthonus,Forest,GYB5,9,Orange
+P4-043,1,Llwyn Y Coed,Quercus petraea,53.134,-4.156,125,Wales,autochthonus,Forest,LYC1,9,Orange
+P4-043,2,Llwyn Y Coed,Quercus petraea,53.134,-4.156,125,Wales,autochthonus,Forest,LYC2,9,Orange
+P4-043,3,Llwyn Y Coed,Quercus petraea,53.134,-4.156,125,Wales,autochthonus,Forest,LYC3,-,-
+P4-043,4,Llwyn Y Coed,Quercus petraea,53.134,-4.156,125,Wales,autochthonus,Forest,LYC4,9,Orange
+P4-043,5,Llwyn Y Coed,Quercus petraea,53.134,-4.156,125,Wales,autochthonus,Forest,LYC5,9,Orange
+P4-044,1,Bovey Valley,-,50.606,-3.738,150,England,autochthonus,Forest,BOV1,8,Yellow
+P4-044,2,Bovey Valley,Quercus petraea,50.606,-3.738,150,England,autochthonus,Forest,BOV2,8,Yellow
+P4-044,3,Bovey Valley,-,50.606,-3.738,150,England,autochthonus,Forest,BOV3,8,Yellow
+P4-044,4,Bovey Valley,-,50.606,-3.738,150,England,autochthonus,Forest,BOV4,8,Yellow
+P4-044,5,Bovey Valley,-,50.606,-3.738,150,England,autochthonus,Forest,BOV5,8,Yellow
+P4-045,1,Horner Woods,-,51.189,-3.584,250,England,autochthonus,Forest,HOR1,8,Yellow
+P4-045,2,Horner Woods,-,51.189,-3.584,250,England,autochthonus,Forest,HOR2,8,Yellow
+P4-045,3,Horner Woods,-,51.189,-3.584,250,England,autochthonus,Forest,HOR3,8,Yellow
+P4-045,4,Horner Woods,-,51.189,-3.584,250,England,autochthonus,Forest,HOR4,8,Yellow
+P4-045,5,Horner Woods,-,51.189,-3.584,250,England,autochthonus,Forest,HOR5,8,Yellow
+P4-046,1,Dizzard,Quercus petraea,50.765,-4.602,10,England,autochthonus,Forest,DIZ1,9,Orange
+P4-046,2,Dizzard,Quercus petraea,50.765,-4.602,10,England,autochthonus,Forest,DIZ2,9,Orange
+P4-046,3,Dizzard,Quercus petraea,50.765,-4.602,10,England,autochthonus,Forest,DIZ3,9,Orange
+P4-046,4,Dizzard,Quercus petraea,50.765,-4.602,10,England,autochthonus,Forest,DIZ4,9,Orange
+P4-046,5,Dizzard,Quercus petraea,50.765,-4.602,10,England,autochthonus,Forest,DIZ5,9,Orange
+P4-047,1,Yarner,-,50.593,-3.724,200,England,autochthonus,Forest,YAR1,8,Yellow
+P4-047,2,Yarner,Quercus petraea,50.593,-3.724,200,England,autochthonus,Forest,YAR2,8,Yellow
+P4-047,3,Yarner,Quercus petraea,50.593,-3.724,200,England,autochthonus,Forest,YAR3,8,Yellow
+P4-047,4,Yarner,Quercus petraea,50.593,-3.724,200,England,autochthonus,Forest,YAR4,8,Yellow
+P4-047,5,Yarner,Quercus petraea,50.593,-3.724,200,England,autochthonus,Forest,YAR5,8,Yellow
+P4-048,1,Chopwell wood,-,54.913,-1.782,107,England,autochthonus,Forest,CHOP1,10,White
+P4-048,2,Chopwell wood,-,54.913,-1.782,107,England,autochthonus,Forest,CHOP2,10,White
+P4-048,3,Chopwell wood,-,54.913,-1.782,107,England,autochthonus,Forest,CHOP3,10,White
+P4-048,4,Chopwell wood,-,54.913,-1.782,107,England,autochthonus,Forest,CHOP4,10,White
+P4-048,5,Chopwell wood,-,54.913,-1.782,107,England,autochthonus,Forest,CHOP5,10,White
+P4-049,1,Wilton,-,54.563,-1.092,107,England,autochthonus,Forest,WILT1,9,Orange
+P4-049,2,Wilton,-,54.563,-1.092,107,England,autochthonus,Forest,WILT2,9,Orange
+P4-049,3,Wilton,-,54.563,-1.092,107,England,autochthonus,Forest,WILT3,9,Orange
+P4-049,4,Wilton,-,54.563,-1.092,107,England,autochthonus,Forest,WILT4,9,Orange
+P4-049,5,Wilton,-,54.563,-1.092,107,England,autochthonus,Forest,WILT5,9,Orange
+P4-050,1,Coed Dolgarrog,Quercus petraea,53.185,-3.845,230,Wales,autochthonus,Forest,DOLG1,9,Orange
+P4-050,2,Coed Dolgarrog,Quercus petraea,53.185,-3.845,230,Wales,autochthonus,Forest,DOLG2,9,Orange
+P4-050,3,Coed Dolgarrog,Quercus petraea,53.185,-3.845,230,Wales,autochthonus,Forest,DOLG3,9,Orange
+P4-050,4,Coed Dolgarrog,Quercus petraea,53.185,-3.845,230,Wales,autochthonus,Forest,DOLG4,9,Orange
+P4-050,5,Coed Dolgarrog,Quercus petraea,53.185,-3.845,230,Wales,autochthonus,Forest,DOLG5,9,Orange
+P4-051,1,Haughead,Quercus petraea,56.565,-3.574,137,Scotland,autochthonus,Forest,HAU1,8,Yellow
+P4-051,2,Haughead,Quercus petraea,56.565,-3.574,137,Scotland,autochthonus,Forest,HAU2,8,Yellow
+P4-051,3,Haughead,Quercus petraea,56.565,-3.574,137,Scotland,autochthonus,Forest,HAU3,8,Yellow
+P4-051,4,Haughead,Quercus petraea,56.565,-3.574,137,Scotland,autochthonus,Forest,HAU4,8,Yellow
+P4-051,5,Haughead,Quercus petraea,56.565,-3.574,137,Scotland,autochthonus,Forest,HAU5,8,Yellow
+P4-052,1,Tunstall,Quercus petraea,54.768,-1.896,229,England,autochthonus,Forest,TLL1,10,White
+P4-052,2,Tunstall,Quercus petraea,54.768,-1.896,229,England,autochthonus,Forest,TLL2,10,White
+P4-052,3,Tunstall,-,54.768,-1.896,229,England,autochthonus,Forest,TLL3,10,White
+P4-052,4,Tunstall,Quercus petraea,54.768,-1.896,229,England,autochthonus,Forest,TLL4,10,White
+P4-052,5,Tunstall,Quercus petraea,54.768,-1.896,229,England,autochthonus,Forest,TLL5,10,White
+P4-053,1,Slaley,-,54.899,-2.027,305,England,autochthonus,Forest,TLY1,10,White
+P4-053,2,Slaley,-,54.899,-2.027,305,England,autochthonus,Forest,TLY2,10,White
+P4-053,3,Slaley,Quercus petraea,54.899,-2.027,305,England,autochthonus,Forest,TLY3,10,White
+P4-053,4,Slaley,Quercus petraea,54.899,-2.027,305,England,autochthonus,Forest,TLY4,10,White
+P4-053,5,Slaley,Quercus petraea,54.899,-2.027,305,England,autochthonus,Forest,TLY5,10,White
+P4-054,1,Healey,-,54.831,-1.899,152,England,autochthonus,Forest,HYF1,10,White
+P4-054,2,Healey,Quercus petraea,54.831,-1.899,152,England,autochthonus,Forest,HYF2,10,White
+P4-054,3,Healey,-,54.831,-1.899,152,England,autochthonus,Forest,HYF3,10,White
+P4-054,4,Healey,Quercus petraea,54.831,-1.899,152,England,autochthonus,Forest,HYF4,10,White
+P4-054,5,Healey,Quercus petraea,54.831,-1.899,152,England,autochthonus,Forest,HYF5,10,White
+P4-055,1,Dunscombe Park,-,54.237,-1.069,122,England,autochthonus,Forest,DUNN1,10,White
+P4-055,2,Dunscombe Park,-,54.237,-1.069,122,England,autochthonus,Forest,DUNN2,10,White
+P4-055,3,Dunscombe Park,-,54.237,-1.069,122,England,autochthonus,Forest,DUNN3,10,White
+P4-055,4,Dunscombe Park,-,54.237,-1.069,122,England,autochthonus,Forest,DUNN4,10,White
+P4-055,5,Dunscombe Park,-,54.237,-1.069,122,England,autochthonus,Forest,DUNN5,10,White
+P4-056,1,Whitfield,-,54.901,-2.338,229,England,autochthonus,Forest,WHD1,10,White
+P4-056,2,Whitfield,Quercus petraea,54.901,-2.338,229,England,autochthonus,Forest,WHD2,10,White
+P4-056,3,Whitfield,Quercus petraea,54.901,-2.338,229,England,autochthonus,Forest,WHD3,10,White
+P4-056,4,Whitfield ,-,54.901,-2.338,229,England,autochthonus,Forest,WHD4,10,White
+P4-056,5,Whitfield,Quercus petraea,54.901,-2.338,229,England,autochthonus,Forest,WHD5,10,White
+P4-057,1,Caer Gwrtheyrn,Quercus petraea,52.04,-4.282,100,Wales,autochthonus,Forest,GWR1,8,Yellow
+P4-057,2,Caer Gwrtheyrn,Quercus robur,52.04,-4.282,100,Wales,autochthonus,Forest,GWR2,9,Orange
+P4-057,3,Caer Gwrtheyrn,Quercus robur,52.04,-4.282,100,Wales,autochthonus,Forest,GWR3,8,Yellow
+P4-057,4,Caer Gwrtheyrn,Quercus petraea,52.04,-4.282,100,Wales,autochthonus,Forest,GWR4,8,Yellow
+P4-057,5,Caer Gwrtheyrn,Intermediate,52.04,-4.282,100,Wales,autochthonus,Forest,GWR5,9,Orange
+P4-058,1,Toy's Hill,Quercus petraea,51.249,0.108,110,England,autochthonus,Forest,TOY2,9,Orange
+P4-058,2,Toy's Hill,Quercus petraea,51.249,0.108,110,England,autochthonus,Forest,TOY3,9,Orange
+P4-058,3,Toy's Hill,Quercus petraea,51.249,0.108,110,England,autochthonus,Forest,TOY4,9,Orange
+P4-058,4,Toy's Hill,Quercus robur,51.249,0.108,110,England,autochthonus,Forest,TOY5,9,Orange
+P4-058,5,Toy's Hill,Quercus petraea,51.249,0.108,110,England,autochthonus,Forest,TOY6,9,Orange
+P4-059,1,Petts Wood,Quercus robur,51.398,0.085,50,England,autochthonus,Forest,PET1,9,Orange
+P4-059,2,Petts Wood,Quercus robur,51.398,0.085,50,England,autochthonus,Forest,PET2,9,Orange
+P4-059,3,Petts Wood,Quercus robur,51.398,0.085,50,England,autochthonus,Forest,PET3,9,Orange
+P4-059,4,Petts Wood,Quercus petraea,51.398,0.085,50,England,autochthonus,Forest,PET4,9,Orange
+P4-059,5,Petts Wood,Quercus robur,51.398,0.085,50,England,autochthonus,Forest,PET5,9,Orange
+P4-060,1,Bulgham,Quercus petraea,54.239,-4.368,50,England,autochthonus,Forest,BUL1,9,Orange
+P4-060,2,Bulgham,Quercus petraea,54.239,-4.368,50,England,autochthonus,Forest,BUL2,9,Orange
+P4-060,3,Bulgham,Intermediate,54.239,-4.368,50,England,autochthonus,Forest,BUL8,9,Orange
+P4-060,4,Bulgham,Intermediate,54.239,-4.368,50,England,autochthonus,Forest,BUL12,9,Orange
+P4-060,5,Bulgham,Quercus petraea,54.239,-4.368,50,England,autochthonus,Forest,BUL17,9,Orange
+P4-061,1,St. Mary's,Quercus petraea,54.278,-4.384,229,England,autochthonus,Isolated,GB1,9,Orange
+P4-062,1,Stack Mooar,Quercus petraea,54.304,-4.316,30,England,autochthonus,Forest,MB1,9,Orange
+P4-062,2,Stack Mooar,Quercus petraea,54.304,-4.316,30,England,autochthonus,Forest,MB2,9,Orange
+P4-062,3,Stack Mooar,Quercus petraea,54.304,-4.316,30,England,autochthonus,Forest,MB3,9,Orange
+P4-063,1,Traie de Halsall,Quercus robur,54.268,-4.34,50,England,autochthonus,Forest,TNH1,8,Yellow
+P4-063,2,Traie de Halsall,Quercus robur,54.268,-4.34,50,England,autochthonus,Forest,TNH2,9,Orange
+P4-063,3,Traie de Halsall,Intermediate,54.268,-4.34,50,England,autochthonus,Forest,TNH3,8,Yellow
+P4-063,4,Traie de Halsall,Intermediate,54.268,-4.34,50,England,autochthonus,Forest,TNH4,8,Yellow
+P4-064,1,Santon Gorge,Quercus petraea,54.089,-4.603,15,England,autochthonus,Forest,SAN3,9,Orange
+P4-064,2,Santon Gorge,Quercus petraea,54.089,-4.603,15,England,autochthonus,Forest,SAN4,9,Orange
+P4-064,3,Santon Gorge,Quercus petraea,54.089,-4.603,15,England,autochthonus,Forest,SAN6,9,Orange
+P4-064,4,Santon Gorge,Quercus petraea,54.089,-4.603,15,England,autochthonus,Forest,SAN9,9,Orange
+P4-064,5,Santon Gorge,Quercus petraea,54.089,-4.603,15,England,autochthonus,Forest,SAN10,9,Orange
+P4-065,1,Dhoon Bay,Quercus petraea,54.25,-4.361,15,England,autochthonus,Forest,DHO1,9,Orange
+P4-065,2,Dhoon Bay,Quercus petraea,54.25,-4.361,15,England,autochthonus,Forest,DHO3,9,Orange
+P4-065,3,Dhoon Bay,Quercus petraea,54.25,-4.361,15,England,autochthonus,Forest,DHO4,9,Orange
+P4-065,4,Dhoon Bay,Quercus petraea,54.25,-4.361,15,England,autochthonus,Forest,DHO6,9,Orange
+P4-065,5,Dhoon Bay,Quercus petraea,54.25,-4.361,15,England,autochthonus,Forest,DHO8,9,Orange
+P4-066,1,Savernake,Quercus petraea,51.392,-1.67,158,England,autochthonus,Forest,SAV1,10,White
+P4-066,2,Savernake (Cathedral oak),Quercus robur,51.392,-1.67,158,England,autochthonus,Forest,SAV7,10,White
+P4-066,3,Savernake,Quercus petraea,51.392,-1.67,158,England,autochthonus,Forest,SAV3,10,White
+P4-066,4,Savernake,Quercus robur,51.392,-1.67,158,England,autochthonus,Forest,SAV5,9,Orange
+P4-066,5,Savernake,Quercus petraea,51.392,-1.67,158,England,autochthonus,Forest,SAV6,10,White
+P4-067,1,Hartpury College,Quercus robur,51.921,-2.294,30,England,autochthonus,Forest,HART1,8,Yellow
+P4-067,2,Hartpury College,Quercus robur,51.921,-2.294,30,England,autochthonus,Forest,HART2,24,Pale Blue
+P4-067,3,Hartpury College,Quercus robur,51.921,-2.294,30,England,autochthonus,Forest,HART3,9,Orange
+P4-067,4,Hartpury College,Quercus robur,51.921,-2.294,30,England,autochthonus,Forest,HART4,8,Yellow
+P4-068,1,Allt rhyd y groes,Quercus robur,52.118,-3.81,152,Wales,autochthonus,Forest,ALLT1,8,Yellow
+P4-068,2,Allt rhyd y groes,Quercus robur,52.118,-3.81,152,Wales,autochthonus,Forest,ALLT2,8,Yellow
+P4-068,3,Allt rhyd y groes,Quercus robur,52.118,-3.81,152,Wales,autochthonus,Forest,ALLT3,8,Yellow
+P4-068,4,Allt rhyd y groes,Quercus robur,52.118,-3.81,152,Wales,autochthonus,Forest,ALLT4,8,Yellow
+P4-068,5,Allt rhyd y groes,Quercus robur,52.118,-3.81,152,Wales,autochthonus,Forest,ALLT5,8,Yellow
+P4-069,1,Northfield Wood,Quercus robur,52.206,0.961,61,England,autochthonus,Forest,NTF1,10,White
+P4-069,2,Northfield Wood,Quercus robur,52.206,0.961,61,England,autochthonus,Forest,NTF2,10,White
+P4-069,3,Northfield Wood,Quercus robur,52.206,0.961,61,England,autochthonus,Forest,NTF3,10,White
+P4-069,4,Northfield Wood,Quercus robur,52.206,0.961,61,England,autochthonus,Forest,NTF4,10,White
+P4-069,5,Northfield Wood,Quercus robur,52.206,0.961,61,England,autochthonus,Forest,NTF6,10,White
+P4-070,1,Priestley Wood,Quercus robur,52.136,1.04,61,England,autochthonus,Forest,PLY1,10,White
+P4-070,2,Priestley Wood,Quercus robur,52.136,1.04,61,England,autochthonus,Forest,PLY2,10,White
+P4-070,3,Priestley Wood,Quercus robur,52.136,1.04,61,England,autochthonus,Forest,PLY3,10,White
+P4-070,4,Priestley Wood,Quercus robur,52.136,1.04,61,England,autochthonus,Forest,PLY4,10,White
+P4-070,5,Priestley Wood,Quercus robur,52.136,1.04,61,England,autochthonus,Forest,  PLY5,10,White
+P4-071,1,Staverton Park,Quercus robur,52.107,1.439,15,England,autochthonus,Forest,SVN1,10,White
+P4-071,2,Staverton Park,Quercus robur,52.107,1.439,15,England,autochthonus,Forest,SVN2,10,White
+P4-071,3,Staverton Park,Quercus robur,52.107,1.439,15,England,autochthonus,Forest,SVN3,10,White
+P4-071,4,Staverton Park,Quercus robur,52.107,1.439,15,England,autochthonus,Forest,SVN4,10,White
+P4-071,5,Staverton Park,Quercus robur,52.107,1.439,15,England,autochthonus,Forest,SVN5,10,White
+P4-072,1,Felshamhall Park,Quercus robur,52.181,0.831,91,England,autochthonus,Forest,FLL1,10,White
+P4-072,2,Felshamhall Park,Quercus robur,52.181,0.831,91,England,autochthonus,Forest,FLL3,10,White
+P4-072,3,Felshamhall Park,Quercus robur,52.181,0.831,91,England,autochthonus,Forest,FLL4,10,White
+P4-072,4,Felshamhall Park,Quercus robur,52.181,0.831,91,England,autochthonus,Forest,FLL5,10,White
+P4-072,5,Felshamhall Park,Quercus robur,52.181,0.831,91,England,autochthonus,Forest,FLL6,10,White
+P4-073,1,Great Wood,Quercus robur,52.188,1.424,30,England,autochthonus,Forest,GRW1,10,White
+P4-073,2,Great Wood,Quercus robur,52.188,1.424,30,England,autochthonus,Forest,GRW2,10,White
+P4-073,3,Great Wood,Quercus robur,52.188,1.424,30,England,autochthonus,Forest,GRW3,10,White
+P4-073,4,Great Wood,Quercus robur,52.188,1.424,30,England,autochthonus,Forest,GRW4,10,White
+P4-073,5,Great Wood,Quercus robur,52.188,1.424,30,England,autochthonus,Forest,GRW6,10,White
+P4-074,1,Bramfield,Intermediate,52.302,1.528,30,England,autochthonus,Forest,BMD1,10,White
+P4-074,2,Bramfield,Quercus robur,52.302,1.528,30,England,autochthonus,Forest,BMD3,10,White
+P4-074,3,Bramfield,Quercus robur,52.302,1.528,30,England,autochthonus,Forest,BMD4,10,White
+P4-074,4,Bramfield,Quercus robur,52.302,1.528,30,England,autochthonus,Forest,BMD5,10,White
+P4-074,5,Bramfield,Quercus robur,52.302,1.528,30,England,autochthonus,Forest,BMD6,10,White
+P4-075,1,Hethersett,Quercus robur,52.597,1.196,27,England,autochthonus,Forest,HTH1,10,White
+P4-075,2,Hethersett,Intermediate,52.597,1.196,27,England,autochthonus,Forest,HTH2,10,White
+P4-075,3,Hethersett,Quercus robur,52.597,1.196,27,England,autochthonus,Forest,HTH3,-,-
+P4-075,4,Hethersett,Quercus petraea,52.597,1.196,27,England,autochthonus,Forest,HTTH4,10,White
+P4-076,1,Kett's Oak,Quercus robur,52.589,1.151,46,England,autochthonus,Isolated,KTT1,9,Orange
+P4-077,1,Larling,Quercus robur,52.465,0.922,30,England,autochthonus,Forest,LAR1,10,White
+P4-077,2,Larling,Quercus robur,52.465,0.922,30,England,autochthonus,Forest,LAR2,10,White
+P4-077,3,Larling,Quercus robur,52.465,0.922,30,England,autochthonus,Forest,LAR3,9,Orange
+P4-077,4,Larling,Quercus robur,52.465,0.922,30,England,autochthonus,Forest,LAR4,10,White
+P4-077,5,Larling,Quercus robur,52.465,0.922,30,England,autochthonus,Forest,LAR6,9,Orange
+P4-078,1,"Beezley, Ingleton Falls",Quercus petraea/Intermediate,54.165,-2.452,168,England,autochthonus,Forest,BUZ1,8,Yellow
+P4-078,2,"Beezley, Ingleton Falls",Quercus petraea,54.165,-2.452,168,England,autochthonus,Forest,BUZ2,8,Yellow
+P4-078,3,"Beezley, Ingleton Falls",Quercus petraea,54.165,-2.452,168,England,autochthonus,Forest,BUZ3,9,Orange
+P4-078,4,"Beezley, Ingleton Falls",Quercus petraea,54.165,-2.452,168,England,autochthonus,Forest,BUZ4,8,Yellow
+P4-078,5,"Beezley, Ingleton Falls",Quercus petraea,54.165,-2.452,168,England,autochthonus,Forest,BUZ5,8,Yellow
+P4-079,1,Scotney,Quercus robur,51.08,0.407,50,England,autochthonus,Forest,SCO1,9,Orange
+P4-079,2,Scotney,Quercus robur,51.08,0.407,50,England,autochthonus,Forest,SCO3,9,Orange
+P4-079,3,Scotney,Quercus petraea,51.08,0.407,50,England,autochthonus,Forest,SCO4,9,Orange
+P4-079,4,Scotney,Quercus robur,51.08,0.407,50,England,autochthonus,Forest,SCO5,9,Orange
+P4-079,5,Scotney,Quercus robur,51.08,0.407,50,England,autochthonus,Forest,SCO6,9,Orange
+P4-080,1,Ogmore Valley,Quercus robur,51.562,-3.538,150,Wales,autochthonus,Forest,OGM1,8,Yellow
+P4-080,2,Ogmore Valley,Quercus petraea,51.562,-3.538,150,Wales,autochthonus,Forest,OGM2,8,Yellow
+P4-080,3,Ogmore Valley,Quercus petraea,51.562,-3.538,150,Wales,autochthonus,Forest,OGM3,8,Yellow
+P4-080,4,Ogmore Valley,Quercus petraea,51.562,-3.538,150,Wales,autochthonus,Forest,OGM4,8,Yellow
+P4-080,5,Ogmore Valley,Quercus petraea,51.562,-3.538,150,Wales,autochthonus,Forest,OGM5,8,Yellow
+P4-081,1,Bagley,-,51.714,-1.262,122,England,autochthonus,Forest,BAG1,10,White
+P4-081,2,Bagley,Quercus robur,51.714,-1.262,122,England,autochthonus,Forest,BAG2,9,Orange
+P4-081,3,Bagley,Intermediate,51.714,-1.262,122,England,autochthonus,Forest,BAG4,new haplotype,
+P4-081,4,Bagley,-,51.714,-1.262,122,England,autochthonus,Forest,BAG5,new haplotype,
+P4-081,5,Bagley,-,51.714,-1.262,122,England,autochthonus,Forest,BAG6,10,White
+P4-082,1,Wytham,Quercus robur,51.777,-1.333,107,England,autochthonus,Forest,WYTH1,8,Yellow
+P4-082,2,Wytham,-,51.777,-1.333,107,England,autochthonus,Forest,WYTH2,9,Orange
+P4-082,3,Wytham,Quercus robur,51.777,-1.333,107,England,autochthonus,Forest,WYTH3,9,Orange
+P4-082,4,Wytham,-,51.777,-1.333,107,England,autochthonus,Forest,WYTH4,9,Orange
+P4-082,5,Wytham,-,51.777,-1.333,107,England,autochthonus,Forest,WYTH5,8,Yellow
+P4-083,1,Southwick,-,52.525,-0.511,61,England,autochthonus,Forest,SOCK1,8,Yellow
+P4-083,2,Southwick,-,52.525,-0.511,61,England,autochthonus,Forest,SOCK2,8,Yellow
+P4-083,3,Southwick,-,52.525,-0.511,61,England,autochthonus,Forest,SOCK3,8,Yellow
+P4-083,4,Southwick,-,52.525,-0.511,61,England,autochthonus,Forest,SOCK4,8,Yellow
+P4-083,5,Southwick,Quercus robur,52.525,-0.511,61,England,autochthonus,Forest,SOCK5,8,Yellow
+P4-084,1,Salcey,-,52.16,-0.83,107,England,autochthonus,Forest,SAL2,8,Yellow
+P4-084,2,Salcey,-,52.16,-0.83,107,England,autochthonus,Forest,SAL3,8,Yellow
+P4-084,3,Salcey,-,52.16,-0.83,107,England,autochthonus,Forest,SAL5,8,Yellow
+P4-084,4,Salcey,-,52.16,-0.83,107,England,autochthonus,Forest,SAL6,8,Yellow
+P4-084,5,Salcey,-,52.16,-0.83,107,England,autochthonus,Forest,SAL7,8,Yellow
+P4-085,1,Cwm Bargoed,-,51.713,-3.32,270,England,autochthonus,Forest,CWM1,8,Yellow
+P4-085,2,Cwm Bargoed,Quercus petraea,51.713,-3.32,270,England,autochthonus,Forest,CWM2,8,Yellow
+P4-085,3,Cwm Bargoed,-,51.713,-3.32,270,England,autochthonus,Forest,CWM3,8,Yellow
+P4-085,4,Cwm Bargoed,Quercus petraea,51.713,-3.32,270,England,autochthonus,Forest,CWM6,8,Yellow
+P4-085,5,Cwm Bargoed,Quercus petraea,51.713,-3.32,270,England,autochthonus,Forest,CWM10,8,Yellow
+P4-086,1,Alice Holt,-,51.18,-0.862,122,England,autochthonus,Forest,AH2,9,Orange
+P4-086,2,Alice Holt,-,51.18,-0.862,122,England,autochthonus,Forest,AH3,9,Orange
+P4-086,3,Alice Holt,-,51.18,-0.862,122,England,autochthonus,Forest,AH4,9,Orange
+P4-086,4,Alice Holt,-,51.18,-0.862,122,England,autochthonus,Forest,AH5,9,Orange
+P4-086,5,Alice Holt,-,51.18,-0.862,122,England,autochthonus,Forest,AH6,9,Orange
+P4-087,1,Newball,Quercus robur,53.269,-0.365,15,England,autochthonus,Forest,NBL1,9,Orange
+P4-087,2,Newball,Quercus robur,53.269,-0.365,15,England,autochthonus,Forest,NBL2,8,Yellow
+P4-087,3,Newball,Quercus robur,53.269,-0.365,15,England,autochthonus,Forest,NBL3,8,Yellow
+P4-087,4,Newball,Quercus robur,53.269,-0.365,15,England,autochthonus,Forest,NBL4,9,Orange
+P4-087,5,Newball,Quercus petraea,53.269,-0.365,15,England,autochthonus,Forest,NBL5,8,Yellow
+P4-088,1,Hardy Gang,Quercus robur,53.261,-0.366,10,England,autochthonus,Forest,HGG1,9,Orange
+P4-088,2,Hardy Gang,Quercus robur,53.261,-0.366,10,England,autochthonus,Forest,HGG2,9,Orange
+P4-088,3,Hardy Gang,Quercus robur,53.261,-0.366,10,England,autochthonus,Forest,HGG3,9,Orange
+P4-088,4,Hardy Gang,Quercus robur,53.261,-0.366,10,England,autochthonus,Forest,HGG4,9,Orange
+P4-088,5,Hardy Gang,Intermediate,53.261,-0.366,10,England,autochthonus,Forest,HGG5,9,Orange
+P4-089,1,Badby,Intermediate,52.217,-1.18,152,England,autochthonus,Forest,BDY1,8,Yellow
+P4-089,2,Badby,Intermediate,52.217,-1.18,152,England,autochthonus,Forest,BDY2,8,Yellow
+P4-089,3,Badby,Quercus robur,52.217,-1.18,152,England,autochthonus,Forest,BDY3,8,Yellow
+P4-089,4,Badby,Intermediate,52.217,-1.18,152,England,autochthonus,Forest,BDY4,8,Yellow
+P4-089,5,Badby,Quercus robur,52.217,-1.18,152,England,autochthonus,Forest,BDY5,8,Yellow
+P4-090,1,Everdon,Quercus robur,52.203,-1.115,152,England,autochthonus,Forest,EVE1,9,Orange
+P4-090,2,Everdon,Intermediate,52.203,-1.115,152,England,autochthonus,Forest,EVE2,9,Orange
+P4-090,3,Everdon,Quercus robur,52.203,-1.115,152,England,autochthonus,Forest,EVE3,9,Orange
+P4-090,4,Everdon,Quercus robur,52.203,-1.115,152,England,autochthonus,Forest,EVE4,8,Yellow
+P4-090,5,Everdon,Intermediate,52.203,-1.115,152,England,autochthonus,Forest,EVE5,8,Yellow
+P4-091,1,Chatsworth,Intermediate,53.213,-1.604,152,England,autochthonus,Forest,CHH5,9,Orange
+P4-091,2,Chatsworth,Intermediate,53.213,-1.604,152,England,autochthonus,Forest,CHH1,9,Orange
+P4-091,3,Chatsworth,Quercus robur,53.213,-1.604,152,England,autochthonus,Forest,CHH9,8,Yellow
+P4-091,4,Chatsworth,Quercus robur,53.213,-1.604,152,England,autochthonus,Forest,CHH4,8,Yellow
+P4-091,5,Chatsworth,Quercus robur,53.213,-1.604,152,England,autochthonus,Forest,CHH2,8,Yellow
+P4-092,1,Elmley Castle Deer Park,Quercus robur,52.061,-2.029,100,England,autochthonus,Forest,ECD6,24,Pale Blue
+P4-092,2,Elmley Castle Deer Park,Quercus robur,52.061,-2.029,100,England,autochthonus,Forest,ECD2,10,White
+P4-092,3,Elmley Castle Deer Park,Quercus robur,52.061,-2.029,100,England,autochthonus,Forest,ECD10,10,White
+P4-092,4,Elmley Castle Deer Park,Quercus robur,52.061,-2.029,100,England,autochthonus,Forest,ECD4,24,Pale Blue
+P4-092,5,Elmley Castle Deer Park,Quercus robur,52.061,-2.029,100,England,autochthonus,Forest,ECD6,24,Pale Blue
+P4-093,1,Lea and Pagets Wood,Quercus petraea,52.007,-2.593,130,England,autochthonus,Forest,LPW1,10,White
+P4-093,2,Lea and Pagets Wood,Quercus petraea,52.007,-2.593,130,England,autochthonus,Forest,LPW7,24,Pale Blue
+P4-093,3,Lea and Pagets Wood,Quercus petraea,52.007,-2.593,130,England,autochthonus,Forest,LPW9,24,Pale Blue
+P4-093,4,Lea and Pagets Wood,Quercus petraea,52.007,-2.593,130,England,autochthonus,Forest,LPW8,24,Pale Blue
+P4-093,5,Lea and Pagets Wood,Quercus petraea,52.007,-2.593,130,England,autochthonus,Forest,LPW10,10,White
+P4-094,1,Wye  Vale Woodlands,Quercus robur,52.062,-2.77,76,England,autochthonus,Forest,WYV1,8,Yellow
+P4-094,2,Wye  Vale Woodlands,Intermediate,52.062,-2.77,76,England,autochthonus,Forest,WYV2,8,Yellow
+P4-094,3,Wye  Vale Woodlands,Quercus robur,52.062,-2.77,76,England,autochthonus,Forest,WYV3,8,Yellow
+P4-094,4,Wye  Vale Woodlands,Quercus robur,52.062,-2.77,76,England,autochthonus,Forest,WYV4,8,Yellow
+P4-094,5,Wye  Vale Woodlands,Quercus robur,52.062,-2.77,76,England,autochthonus,Forest,WYV5,8,Yellow
+P4-095,1,Poor Man's Piece,Quercus petraea,52.023,-2.598,168,England,autochthonus,Forest,PMP8,8,Yellow
+P4-095,2,Poor Man's Piece,Quercus petraea,52.023,-2.598,168,England,autochthonus,Forest,PMP7,9,Orange
+P4-095,3,Poor Man's Piece,Quercus petraea,52.023,-2.598,168,England,autochthonus,Forest,PMP10,10,White
+P4-095,4,Poor Man's Piece,Quercus petraea,52.023,-2.598,168,England,autochthonus,Forest,PMP4,10,White
+P4-095,5,Poor Man's Piece,Quercus petraea,52.023,-2.598,168,England,autochthonus,Forest,PMP5,9,Orange
+P4-096,1,Clay Vallets,Quercus petraea/Intermediate,52.304,-2.949,305,England,autochthonus,Forest,CVL9,9,Orange
+P4-096,2,Clay Vallets,intermediate,52.304,-2.949,305,England,autochthonus,Forest,CVL7,9,Orange
+P4-096,3,Clay Vallets,Quercus petraea,52.304,-2.949,305,England,autochthonus,Forest,CVL5,10,White
+P4-096,4,Clay Vallets,Quercus petraea/Intermediate,52.304,-2.949,305,England,autochthonus,Forest,CVL6,10,White
+P4-096,5,Clay Vallets,Intermediate,52.304,-2.949,305,England,autochthonus,Forest,CVL10,10,White
+P4-097,1,Holywell Dingle,Intermediate,52.154,-3.007,122,England,autochthonus,Forest,HYD1,8,Yellow
+P4-097,2,Holywell Dingle,Quercus robur,52.154,-3.007,122,England,autochthonus,Forest,HYD3,10,White
+P4-097,3,Holywell Dingle,Quercus robur,52.154,-3.007,122,England,autochthonus,Forest,HYD4,8,Yellow
+P4-097,4,Holywell Dingle,Quercus robur,52.154,-3.007,122,England,autochthonus,Forest,HYD5,8,Yellow
+P4-097,5,Holywell Dingle,Intermediate,52.154,-3.007,122,England,autochthonus,Forest,HYD7,8,Yellow
+P4-098,1,Newton,-,54.504,-1.112,152,England,autochthonus,Forest,NWO1,9,Orange
+P4-098,2,Newton,-,54.504,-1.112,152,England,autochthonus,Forest,NWO2,9,Orange
+P4-098,3,Newton,-,54.504,-1.112,152,England,autochthonus,Forest,NWO3,9,Orange
+P4-098,4,Newton,-,54.504,-1.112,152,England,autochthonus,Forest,NWO4,9,Orange
+P4-098,5,Newton,-,54.504,-1.112,152,England,autochthonus,Forest,NWO5,9,Orange
+P4-099,1,Hatch Park,Quercus robur,51.131,0.949,76,England,autochthonus,Forest,HPK1,-,-
+P4-099,2,Hatch Park,Intermediate,51.131,0.949,76,England,autochthonus,Forest,HPK11,8,Yellow
+P4-099,3,Hatch Park,Quercus robur,51.131,0.949,76,England,autochthonus,Forest,HPK3,8,Yellow
+P4-099,4,Hatch Park,Quercus robur,51.131,0.949,76,England,autochthonus,Forest,HPK4,8,Yellow
+P4-099,5,Hatch Park,Quercus robur,51.131,0.949,76,England,autochthonus,Forest,HPK5,8,Yellow
+P4-100,1,Knole Park,Quercus robur,51.259,0.215,150,England,autochthonus,Forest,KPK1,9,Orange
+P4-100,2,Knole Park,Quercus petraea,51.259,0.215,150,England,autochthonus,Forest,KPK2,9,Orange
+P4-100,3,Knole Park,Quercus robur,51.259,0.215,150,England,autochthonus,Forest,KPK3,9,Orange
+P4-100,4,Knole Park,Quercus petraea,51.259,0.215,150,England,autochthonus,Forest,KPK4,9,Orange
+P4-100,5,Knole Park,Quercus robur,51.259,0.215,150,England,autochthonus,Forest,KPK7,8,Yellow
+P4-101,1,Coed y Wern,Quercus robur/Intermediate,51.874,-4.064,61,Wales,autochthonus,Forest,PCL1,8,Yellow
+P4-101,2,Coed y Wern,Quercus robur,51.874,-4.064,61,Wales,autochthonus,Forest,PCL2,8,Yellow
+P4-101,3,Coed y Wern,Quercus robur,51.874,-4.064,61,Wales,autochthonus,Forest,PCL3,8,Yellow
+P4-101,4,Coed y Wern,Intermediate,51.874,-4.064,61,Wales,autochthonus,Forest,PCL4,9,Orange
+P4-101,5,Coed y Wern,Quercus robur,51.874,-4.064,61,Wales,autochthonus,Forest,PCL5,9,Orange
+P4-102,1,Dynefor Park,Quercus robur,51.879,-4.02,76,Wales,autochthonus,Forest,DFO5,9,Orange
+P4-102,2,Dynefor Park,Quercus robur,51.879,-4.02,76,Wales,autochthonus,Forest,DFO2,9,Orange
+P4-102,3,Dynefor Park,Quercus robur,51.879,-4.02,76,Wales,autochthonus,Forest,DFO3,9,Orange
+P4-102,4,Dynefor Park,Quercus robur,51.879,-4.02,76,Wales,autochthonus,Forest,DFO4,10,White
+P4-102,5,Dynefor Park,Quercus robur,51.879,-4.02,76,Wales,autochthonus,Forest,DFO6,9,Orange
+P4-103,1,Ty Canol Wood,Quercus petraea,52.003,-4.776,152,Wales,autochthonus,Forest,TCW1,8,Yellow
+P4-103,2,Ty Canol Wood,Quercus robur,52.003,-4.776,152,Wales,autochthonus,Forest,TCW6,8,Yellow
+P4-103,3,Ty Canol Wood,Quercus petraea,52.003,-4.776,152,Wales,autochthonus,Forest,TCW3,8,Yellow
+P4-103,4,Ty Canol Wood,Intermediate,52.003,-4.776,152,Wales,autochthonus,Forest,TCW4,8,Yellow
+P4-103,5,Ty Canol Wood,Intermediate,52.003,-4.776,152,Wales,autochthonus,Forest,TCW5,8,Yellow
+P4-104,1,Pencelly Forest,Quercus petraea/Intermediate,52.017,-4.726,122,Wales,autochthonus,Forest,PCY1,8,Yellow
+P4-104,2,Pencelly Forest,Intermediate,52.017,-4.726,122,Wales,autochthonus,Forest,PCY2,8,Yellow
+P4-104,3,Pencelly Forest,Quercus petraea,52.017,-4.726,122,Wales,autochthonus,Forest,PCY3,8,Yellow
+P4-104,4,Pencelly Forest,Quercus petraea,52.017,-4.726,122,Wales,autochthonus,Forest,PCY4,8,Yellow
+P4-104,5,Pencelly Forest,Intermediate,52.017,-4.726,122,Wales,autochthonus,Forest,PCY5,8,Yellow
+P4-105,1,Cwm Gwaun,Quercus petraea,51.973,-4.898,122,Wales,autochthonus,Forest,CWG6,8,Yellow
+P4-105,2,Cwm Gwaun,Quercus petraea,51.973,-4.898,122,Wales,autochthonus,Forest,CWG2,8,Yellow
+P4-105,3,Cwm Gwaun,Intermediate,51.973,-4.898,122,Wales,autochthonus,Forest,CWG3,8,Yellow
+P4-105,4,Cwm Gwaun,Quercus petraea,51.973,-4.898,122,Wales,autochthonus,Forest,CWG4,8,Yellow
+P4-105,5,Cwm Gwaun,Quercus petraea,51.973,-4.898,122,Wales,autochthonus,Forest,CWG5,8,Yellow
+P4-106,1,Cilgerran Woods,Quercus petraea,52.06,-4.626,61,Wales,autochthonus,Forest,CGN1,9,Orange
+P4-106,2,Cilgerran Woods,Quercus petraea,52.06,-4.626,61,Wales,autochthonus,Forest,CGN2,9,Orange
+P4-106,3,Cilgerran Woods,Quercus petraea,52.06,-4.626,61,Wales,autochthonus,Forest,CGN3,9,Orange
+P4-106,4,Cilgerran Woods,Quercus petraea,52.06,-4.626,61,Wales,autochthonus,Forest,CGN4,9,Orange
+P4-106,5,Cilgerran Woods,Quercus petraea,52.06,-4.626,61,Wales,autochthonus,Forest,CGN5,9,Orange
+P4-107,2,Brocton Coppice,Quercus petraea,52.775,-2.03,99,England,autochthonus,Forest,BRT3,8,Yellow
+P4-107,3,Brocton Coppice,Quercus petraea,52.775,-2.03,99,England,autochthonus,Forest,BRT4,8,Yellow
+P4-107,5,Brocton Coppice,Quercus petraea,52.775,-2.03,99,England,autochthonus,Forest,BRT6,8,Yellow
+P4-108,1,Forest Banks,Quercus robur,52.849,-1.835,137,England,autochthonus,Forest,UTX10,9,Orange
+P4-108,2,Forest Banks,Quercus robur,52.849,-1.835,137,England,autochthonus,Forest,UTX4,9,Orange
+P4-108,3,Forest Banks,Quercus robur,52.849,-1.835,137,England,autochthonus,Forest,UTX5,9,Orange
+P4-108,4,Forest Banks,Quercus robur,52.849,-1.835,137,England,autochthonus,Forest,UTX6,9,Orange
+P4-108,5,Forest Banks,Quercus petraea,52.849,-1.835,137,England,autochthonus,Forest,UTX7,9,Orange
+P4-109,1,Burnt Woods,Intermediate,52.911,-2.397,200,England,autochthonus,Forest,LGG1,9,Orange
+P4-109,2,Burnt Woods,Intermediate,52.911,-2.397,200,England,autochthonus,Forest,LGG2,9,Orange
+P4-109,3,Burnt Woods,Quercus petraea,52.911,-2.397,200,England,autochthonus,Forest,LGG3,9,Orange
+P4-109,4,Burnt Woods,Quercus robur,52.911,-2.397,200,England,autochthonus,Forest,LGG6,9,Orange
+P4-109,5,Burnt Woods,Intermediate,52.911,-2.397,200,England,autochthonus,Forest,LGG5,9,Orange
+P4-110,1,Easton Hornstocks,Quercus robur,52.588,-0.509,76,England,autochthonus,Forest,EHK1,8,Yellow
+P4-110,2,Easton Hornstocks,Quercus robur/Intermediate,52.588,-0.509,76,England,autochthonus,Forest,EHK2,8,Yellow
+P4-110,3,Easton Hornstocks,Quercus robur/Intermediate,52.588,-0.509,76,England,autochthonus,Forest,EHK6,8,Yellow
+P4-110,4,Easton Hornstocks,Quercus robur,52.588,-0.509,76,England,autochthonus,Forest,EHK8,8,Yellow
+P4-110,5,Easton Hornstocks,Intermediate,52.588,-0.509,76,England,autochthonus,Forest,EHK7,8,Yellow
+P4-111,1,"King's Wood,Corby",Quercus robur,52.474,-0.734,122,England,autochthonus,Forest,KWC1,9,Orange
+P4-111,2,"King's Wood,Corby",Quercus robur,52.474,-0.734,122,England,autochthonus,Forest,KWC7,9,Orange
+P4-111,3,"King's Wood,Corby",Quercus robur,52.474,-0.734,122,England,autochthonus,Forest,KWC6,9,Orange
+P4-111,4,"King's Wood,Corby",Quercus robur,52.474,-0.734,122,England,autochthonus,Forest,KWC8,9,Orange
+P4-111,5,"King's Wood,Corby",Quercus robur,52.474,-0.734,122,England,autochthonus,Forest,KWC5,9,Orange
+P4-112,1,Bedford Purlieus,Quercus robur,52.583,-0.462,61,England,autochthonus,Forest,BPU1,8,Yellow
+P4-112,2,Bedford Purlieus,Quercus robur,52.583,-0.462,61,England,autochthonus,Forest,BPU2,8,Yellow
+P4-112,3,Bedford Purlieus,Quercus robur,52.583,-0.462,61,England,autochthonus,Forest,BPU8,8,Yellow
+P4-112,4,Bedford Purlieus,Quercus robur,52.583,-0.462,61,England,autochthonus,Forest,BPU4,8,Yellow
+P4-112,5,Bedford Purlieus,Quercus robur,52.583,-0.462,61,England,autochthonus,Forest,BPU6,9,Orange
+P4-113,1,Great Bramingham Wood,Intermediate,51.922,-0.444,137,England,autochthonus,Forest,BRM1,9,Orange
+P4-113,2,Great Bramingham Wood,Quercus robur/Intermediate,51.922,-0.444,137,England,autochthonus,Forest,BRM2,9,Orange
+P4-113,3,Great Bramingham Wood,Quercus robur,51.922,-0.444,137,England,autochthonus,Forest,BRM4,9,Orange
+P4-113,4,Great Bramingham Wood,Quercus robur,51.922,-0.444,137,England,autochthonus,Forest,BRM5,9,Orange
+P4-113,5,Great Bramingham Wood,Quercus petraea/Intermediate,51.922,-0.444,137,England,autochthonus,Forest,BRM6,9,Orange
+P4-114,1,Windsor Great Park,Quercus robur,51.438,-0.619,61,England,autochthonus,Forest,WGT6,10,White
+P4-114,2,Windsor Great Park,Quercus robur,51.438,-0.619,61,England,autochthonus,Forest,WGT2,10,White
+P4-114,3,Windsor Great Park,Quercus robur,51.438,-0.619,61,England,autochthonus,Forest,WGT3,10,White
+P4-114,4,Windsor Great Park,Quercus robur/Intermediate,51.438,-0.619,61,England,autochthonus,Forest,WGT4,10,White
+P4-114,5,Windsor Great Park,Quercus robur,51.438,-0.619,61,England,autochthonus,Forest,WGT5,14,Red
+P4-115,1,Burnham Beeches,Intermediate,51.555,-0.63,61,England,autochthonus,Forest,BHB1,10,White
+P4-115,2,Burnham Beeches,Quercus robur,51.555,-0.63,61,England,autochthonus,Forest,BHB2,10,White
+P4-115,3,Burnham Beeches,Quercus robur,51.555,-0.63,61,England,autochthonus,Forest,BHB6,10,White
+P4-115,4,Burnham Beeches,Quercus robur,51.555,-0.63,61,England,autochthonus,Forest,BHB4,10,White
+P4-115,5,Burnham Beeches,Quercus robur,51.555,-0.63,61,England,autochthonus,Forest,BHB5,10,White
+P4-116,1,Ashridge Park,Intermediate,51.802,-0.571,183,England,autochthonus,Forest,ASK1,10,White
+P4-116,2,Ashridge Park,Quercus robur,51.802,-0.571,183,England,autochthonus,Forest,ASK2,10,White
+P4-116,3,Ashridge Park,Quercus robur,51.802,-0.571,183,England,autochthonus,Forest,ASK3,10,White
+P4-116,4,Ashridge Park,Quercus robur,51.802,-0.571,183,England,autochthonus,Forest,ASK4,10,White
+P4-116,5,Ashridge Park,Quercus robur/Intermediate,51.802,-0.571,183,England,autochthonus,Forest,ASK5,8,Yellow
+P4-117,1,Panshanger,Quercus robur,51.805,-0.129,70,England,autochthonus,Forest,PSH1,8,Yellow
+P4-117,2,Panshanger,Quercus robur,51.805,-0.129,70,England,autochthonus,Forest,PSH2,8,Yellow
+P4-117,3,Panshanger,Quercus robur,51.805,-0.129,70,England,autochthonus,Forest,PSH3,8,Yellow
+P4-117,4,Panshanger,Quercus robur,51.805,-0.129,70,England,autochthonus,Forest,PSH6,8,Yellow
+P4-117,5,Panshanger,Quercus robur,51.805,-0.129,70,England,autochthonus,Forest,PSH5,8,Yellow
+P4-118,1,Wormley,Quercus petraea,51.737,-0.088,107,England,autochthonus,Forest,WMY1,8,Yellow
+P4-118,2,Wormley,Quercus petraea,51.737,-0.088,107,England,autochthonus,Forest,WMY2,8,Yellow
+P4-118,3,Wormley,Quercus petraea,51.737,-0.088,107,England,autochthonus,Forest,WMY3,8,Yellow
+P4-118,4,Wormley,Quercus petraea/Intermediate,51.737,-0.088,107,England,autochthonus,Forest,WMY4,8,Yellow
+P4-118,5,Wormley,Quercus petraea,51.737,-0.088,107,England,autochthonus,Forest,WMY5,8,Yellow
+P4-119,1,Great Wood(nr Hatfield),Quercus robur,51.724,-0.139,122,England,autochthonus,Forest,GOO1,8,Yellow
+P4-119,2,Great Wood(nr Hatfield),Quercus robur,51.724,-0.139,122,England,autochthonus,Forest,GOO2,10,White
+P4-119,3,Great Wood(nr Hatfield),Quercus robur,51.724,-0.139,122,England,autochthonus,Forest,GOO3,8,Yellow
+P4-119,4,Great Wood(nr Hatfield),Quercus robur,51.724,-0.139,122,England,autochthonus,Forest,GOO4,8,Yellow
+P4-119,5,Great Wood(nr Hatfield),Quercus robur,51.724,-0.139,122,England,autochthonus,Forest,GOO5,8,Yellow
+P4-121,1,Roskymer,Quercus petraea,50.08,-5.215,46,England,autochthonus,Forest,RKM1,9,Orange
+P4-121,2,Roskymer,Quercus petraea,50.08,-5.215,46,England,autochthonus,Forest,RKM2,9,Orange
+P4-121,3,Roskymer,Quercus petraea,50.08,-5.215,46,England,autochthonus,Forest,RKM3,9,Orange
+P4-121,4,Roskymer,Quercus petraea,50.08,-5.215,46,England,autochthonus,Forest,RKM4,9,Orange
+P4-121,5,Roskymer,Quercus robur/Intermediate,50.08,-5.215,46,England,autochthonus,Forest,RKM5,9,Orange
+P4-122,1,Devichoys,Quercus petraea,50.199,-5.125,46,England,autochthonus,Forest,DVH1,9,Orange
+P4-122,2,Devichoys,Quercus petraea,50.199,-5.125,46,England,autochthonus,Forest,DVH2,9,Orange
+P4-122,3,Devichoys,Quercus petraea,50.199,-5.125,46,England,autochthonus,Forest,DVH6,9,Orange
+P4-122,4,Devichoys,Quercus petraea,50.199,-5.125,46,England,autochthonus,Forest,DVH4,9,Orange
+P4-122,5,Devichoys,Quercus petraea,50.199,-5.125,46,England,autochthonus,Forest,DVH7,9,Orange
+P4-123,1,Lantyan,Quercus petraea,50.372,-4.658,46,England,autochthonus,Forest,LTA1,9,Orange
+P4-123,2,Lantyan,Quercus petraea,50.372,-4.658,46,England,autochthonus,Forest,LTA2,9,Orange
+P4-123,3,Lantyan,Quercus petraea,50.372,-4.658,46,England,autochthonus,Forest,LTA3,9,Orange
+P4-123,4,Lantyan,Quercus petraea,50.372,-4.658,46,England,autochthonus,Forest,LTA6,9,Orange
+P4-123,5,Lantyan,Quercus petraea,50.372,-4.658,46,England,autochthonus,Forest,LTA7,9,Orange
+P4-124,1,Great Wood Cornwall,Quercus petraea,50.373,-4.644,30,England,autochthonus,Forest,GTO6,9,Orange
+P4-124,2,Great Wood Cornwall,Quercus petraea,50.373,-4.644,30,England,autochthonus,Forest,GTO7,9,Orange
+P4-124,3,Great Wood Cornwall,Quercus petraea,50.373,-4.644,30,England,autochthonus,Forest,GTO8,9,Orange
+P4-124,4,Great Wood Cornwall,Quercus petraea,50.373,-4.644,30,England,autochthonus,Forest,,-,-
+P4-124,5,Great Wood Cornwall,Quercus petraea,50.373,-4.644,30,England,autochthonus,Forest,,-,-
+P4-125,1,Cabilla,Quercus petraea,50.491,-4.623,168,England,autochthonus,Forest,CLL7,9,Orange
+P4-125,2,Cabilla,Quercus petraea,50.491,-4.623,168,England,autochthonus,Forest,CLL2,9,Orange
+P4-125,3,Cabilla,Quercus petraea,50.491,-4.623,168,England,autochthonus,Forest,CLL8,9,Orange
+P4-125,4,Cabilla,Quercus petraea,50.491,-4.623,168,England,autochthonus,Forest,CLL9,9,Orange
+P4-125,5,Cabilla,Quercus petraea,50.491,-4.623,168,England,autochthonus,Forest,CLL10,9,Orange
+P4-126,1,Kilminorth,Quercus petraea,50.359,-4.489,76,England,autochthonus,Forest,KTH1,9,Orange
+P4-126,2,Kilminorth,Quercus petraea,50.359,-4.489,76,England,autochthonus,Forest,KTH7,9,Orange
+P4-126,3,Kilminorth,Quercus petraea,50.359,-4.489,76,England,autochthonus,Forest,KTH2,9,Orange
+P4-126,4,Kilminorth,Quercus petraea,50.359,-4.489,76,England,autochthonus,Forest,KTH3,9,Orange
+P4-126,5,Kilminorth,Quercus petraea,50.359,-4.489,76,England,autochthonus,Forest,KTH8,9,Orange
+P4-127,1,Golitha,Quercus petraea,50.484,-4.523,244,England,autochthonus,Forest,GOH8,9,Orange
+P4-127,2,Golitha,Quercus petraea,50.484,-4.523,244,England,autochthonus,Forest,GOH6,9,Orange
+P4-127,3,Golitha,Quercus petraea,50.484,-4.523,244,England,autochthonus,Forest,GOH3,9,Orange
+P4-127,4,Golitha,Quercus petraea,50.484,-4.523,244,England,autochthonus,Forest,GOH4,9,Orange
+P4-127,5,Golitha,Quercus petraea,50.484,-4.523,244,England,autochthonus,Forest,GOH5,9,Orange
+P4-128,1,Wistmans Wood,Quercus robur,50.576,-3.963,411,England,autochthonus,Forest,WST1,9,Orange
+P4-128,2,Wistmans Wood,Quercus robur,50.576,-3.963,411,England,autochthonus,Forest,WST2,9,Orange
+P4-128,3,Wistmans Wood,Quercus robur,50.576,-3.963,411,England,autochthonus,Forest,WST3,9,Orange
+P4-128,4,Wistmans Wood,Quercus robur,50.576,-3.963,411,England,autochthonus,Forest,WST4,9,Orange
+P4-128,5,Wistmans Wood,Quercus robur,50.576,-3.963,411,England,autochthonus,Forest,WST5,9,Orange
+P4-129,1,Melbury Park,Quercus robur,50.851,-2.611,137,England,autochthonus,Forest,MBY1,9,Orange
+P4-129,2,Melbury Park,Quercus robur,50.851,-2.611,137,England,autochthonus,Forest,MBY2,9,Orange
+P4-129,3,Melbury Park,Quercus robur,50.851,-2.611,137,England,autochthonus,Forest,MBY3,9,Orange
+P4-129,4,Melbury Park,Quercus robur,50.851,-2.611,137,England,autochthonus,Forest,MBY4,9,Orange
+P4-129,5,Melbury Park,Quercus robur,50.851,-2.611,137,England,autochthonus,Forest,MBY5,9,Orange
+P4-130,1,Powerstock Common,Quercus robur,50.761,-2.666,152,England,autochthonus,Forest,PTK1,8,Yellow
+P4-130,2,Powerstock Common,Quercus robur,50.761,-2.666,152,England,autochthonus,Forest,PTK2,8,Yellow
+P4-130,3,Powerstock Common,Quercus robur,50.761,-2.666,152,England,autochthonus,Forest,PTK3,8,Yellow
+P4-130,4,Powerstock Common,Quercus robur,50.761,-2.666,152,England,autochthonus,Forest,PTK4,8,Yellow
+P4-130,5,Powerstock Common,Quercus robur,50.761,-2.666,152,England,autochthonus,Forest,PTK5,8,Yellow
+P4-131,1,Great Wood/King's Wood,Quercus robur,50.637,-2.141,122,England,autochthonus,Forest,GWK1,8,Yellow
+P4-131,2,Great Wood/King's Wood,Quercus robur,50.637,-2.141,122,England,autochthonus,Forest,GWK7,8,Yellow
+P4-131,3,Great Wood/King's Wood,Quercus robur,50.637,-2.141,122,England,autochthonus,Forest,GWK8,8,Yellow
+P4-131,4,Great Wood/King's Wood,Quercus robur,50.637,-2.141,122,England,autochthonus,Forest,GWK10,9,Orange
+P4-131,5,Great Wood/King's Wood,Quercus robur,50.637,-2.141,122,England,autochthonus,Forest,GWK9,9,Orange
+P4-132,1,Duncliffe Wood,Quercus robur,50.997,-2.257,152,England,autochthonus,Forest,DFF2,8,Yellow
+P4-132,2,Duncliffe Wood,Quercus robur,50.997,-2.257,152,England,autochthonus,Forest,DFF3,8,Yellow
+P4-132,3,Duncliffe Wood,Quercus robur,50.997,-2.257,152,England,autochthonus,Forest,DFF4,9,Orange
+P4-132,4,Duncliffe Wood,Quercus robur,50.997,-2.257,152,England,autochthonus,Forest,DFF5,8,Yellow
+P4-132,5,Duncliffe Wood,Quercus robur,50.997,-2.257,152,England,autochthonus,Forest,DFF6,8,Yellow
+P4-133,1,Epping Forest,Quercus robur,51.662,0.053,91,England,autochthonus,Forest,PPF1,8,Yellow
+P4-133,2,Epping Forest,Quercus robur,51.662,0.053,91,England,autochthonus,Forest,PPF2,8,Yellow
+P4-133,3,Epping Forest,Quercus robur,51.662,0.053,91,England,autochthonus,Forest,PPF9,9,Orange
+P4-133,4,Epping Forest,Quercus robur,51.662,0.053,91,England,autochthonus,Forest,PPF4,8,Yellow
+P4-133,5,Epping Forest,Quercus robur,51.662,0.053,91,England,autochthonus,Forest,PPF5,8,Yellow
+P4-134,1,Stour Wood,Quercus robur,51.934,1.187,15,England,autochthonus,Forest,STU7,10,White
+P4-134,2,Stour Wood,Quercus robur,51.934,1.187,15,England,autochthonus,Forest,STU2,10,White
+P4-134,3,Stour Wood,Quercus robur,51.934,1.187,15,England,autochthonus,Forest,STU8,10,White
+P4-134,4,Stour Wood,Intermediate,51.934,1.187,15,England,autochthonus,Forest,STU6,10,White
+P4-134,5,Stour Wood,Quercus robur,51.934,1.187,15,England,autochthonus,Forest,STU10,10,White
+P4-135,1,Crab Wood,Quercus robur,51.058,-1.386,137,England,autochthonus,Forest,CRB1,8,Yellow
+P4-135,2,Crab Wood,Quercus robur,51.058,-1.386,137,England,autochthonus,Forest,CRB2,8,Yellow
+P4-135,3,Crab Wood,Quercus robur,51.058,-1.386,137,England,autochthonus,Forest,CRB3,8,Yellow
+P4-135,4,Crab Wood,Quercus robur,51.058,-1.386,137,England,autochthonus,Forest,CRB4,8,Yellow
+P4-135,5,Crab Wood,Quercus robur,51.058,-1.386,137,England,autochthonus,Forest,CRB5,8,Yellow
+P4-136,1,Royden Wood,Quercus robur,50.801,-1.56,30,England,autochthonus,Forest,RYN3,8,Yellow
+P4-136,2,Royden Wood,Quercus robur,50.801,-1.56,30,England,autochthonus,Forest,RYN2,8,Yellow
+P4-136,3,Royden Wood,Quercus robur,50.801,-1.56,30,England,autochthonus,Forest,RYN8,8,Yellow
+P4-136,4,Royden Wood,Quercus robur,50.801,-1.56,30,England,autochthonus,Forest,RYN10,8,Yellow
+P4-136,5,Royden Wood,Quercus robur,50.801,-1.56,30,England,autochthonus,Forest,RYN9,8,Yellow
+P4-137,1,Harewood Forest,Quercus robur,51.189,-1.428,76,England,autochthonus,Forest,HWO6,8,Yellow
+P4-137,2,Harewood Forest,Quercus robur,51.189,-1.428,76,England,autochthonus,Forest,HWO7,8,Yellow
+P4-137,3,Harewood Forest,Quercus robur,51.189,-1.428,76,England,autochthonus,Forest,HWO8,8,Yellow
+P4-137,4,Harewood Forest,Quercus robur,51.189,-1.428,76,England,autochthonus,Forest,HWO4,8,Yellow
+P4-137,5,Harewood Forest,Quercus robur,51.189,-1.428,76,England,autochthonus,Forest,HWO10,8,Yellow
+P4-138,1,Asham Wood,Quercus robur,51.212,-2.415,183,England,autochthonus,Forest,AAM1,9,Orange
+P4-138,2,Asham Wood,Quercus robur,51.212,-2.415,183,England,autochthonus,Forest,AAM2,8,Yellow
+P4-138,3,Asham Wood,Quercus robur,51.212,-2.415,183,England,autochthonus,Forest,AAM3,9,Orange
+P4-138,4,Asham Wood,Quercus robur,51.212,-2.415,183,England,autochthonus,Forest,AAM4,9,Orange
+P4-138,5,Asham Wood,Intermediate,51.212,-2.415,183,England,autochthonus,Forest,AAM7,9,Orange
+P4-139,1,Green Lane Woods(Wilts),Quercus robur,51.318,-2.165,46,England,autochthonus,Forest,GEE10,9,Orange
+P4-139,2,Green Lane Woods(Wilts),intermediate,51.318,-2.165,46,England,autochthonus,Forest,GEE2,9,Orange
+P4-139,3,Green Lane Woods(Wilts),Quercus robur,51.318,-2.165,46,England,autochthonus,Forest,GEE4,9,Orange
+P4-139,4,Green Lane Woods(Wilts),Quercus robur,51.318,-2.165,46,England,autochthonus,Forest,GEE5,9,Orange
+P4-139,5,Green Lane Woods(Wilts),Quercus robur,51.318,-2.165,46,England,autochthonus,Forest,GEE6,9,Orange
+P4-140,1,Ebhor Gorge,Quercus robur,51.229,-2.688,152,England,autochthonus,Forest,EBH1,9,Orange
+P4-140,2,Ebhor Gorge,Quercus robur,51.229,-2.688,152,England,autochthonus,Forest,EBH2,9,Orange
+P4-140,3,Ebhor Gorge,Quercus robur,51.229,-2.688,152,England,autochthonus,Forest,EBH3,9,Orange
+P4-140,4,Ebhor Gorge,Quercus robur,51.229,-2.688,152,England,autochthonus,Forest,EBH4,9,Orange
+P4-140,5,Ebhor Gorge,Quercus robur,51.229,-2.688,152,England,autochthonus,Forest,EBH5,9,Orange
+P4-141,1,Flisteridge Woods,Quercus robur,51.622,-2.007,107,England,autochthonus,Forest,FLG1,9,Orange
+P4-141,2,Flisteridge Woods,Quercus robur,51.622,-2.007,107,England,autochthonus,Forest,FLG2,9,Orange
+P4-141,3,Flisteridge Woods,Quercus robur,51.622,-2.007,107,England,autochthonus,Forest,FLG3,-,-
+P4-141,4,Flisteridge Woods,Quercus robur,51.622,-2.007,107,England,autochthonus,Forest,FLG4,9,Orange
+P4-141,5,Flisteridge Woods,Quercus robur,51.622,-2.007,107,England,autochthonus,Forest,FLG6,9,Orange
+P4-142,1,Dodleaze,Quercus robur,51.353,-2.32,76,England,autochthonus,Forest,DZE1,9,Orange
+P4-142,2,Dodleaze,Quercus robur,51.353,-2.32,76,England,autochthonus,Forest,DZE2,9,Orange
+P4-142,3,Dodleaze,Intermediate,51.353,-2.32,76,England,autochthonus,Forest,DZE3,9,Orange
+P4-142,4,Dodleaze,Quercus robur,51.353,-2.32,76,England,autochthonus,Forest,DZE4,9,Orange
+P4-142,5,Dodleaze,Quercus robur,51.353,-2.32,76,England,autochthonus,Forest,DZE5,9,Orange
+P4-143,1,Great Ground Coppice,Quercus robur,51.07,-2.181,122,England,autochthonus,Forest,GUN10,10,White
+P4-143,2,Great Ground Coppice,Quercus robur,51.07,-2.181,122,England,autochthonus,Forest,GUN9,10,White
+P4-143,3,Great Ground Coppice,Quercus robur,51.07,-2.181,122,England,autochthonus,Forest,GUN8,8,Yellow
+P4-143,4,Great Ground Coppice,Intermediate,51.07,-2.181,122,England,autochthonus,Forest,GUN4,10,White
+P4-143,5,Great Ground Coppice,Quercus robur,51.07,-2.181,122,England,autochthonus,Forest,GUN7,8,Yellow
+P4-144,1,Loose Hanger Copse,Quercus robur,50.974,-1.694,76,England,autochthonus,Forest,LOH1,10,White
+P4-144,2,Loose Hanger Copse,Quercus robur,50.974,-1.694,76,England,autochthonus,Forest,LOH2,10,White
+P4-144,3,Loose Hanger Copse,Quercus robur,50.974,-1.694,76,England,autochthonus,Forest,LOH3,10,White
+P4-144,4,Loose Hanger Copse,Quercus robur,50.974,-1.694,76,England,autochthonus,Forest,LOH4,10,White
+P4-144,5,Loose Hanger Copse,Quercus robur,50.974,-1.694,76,England,autochthonus,Forest,LOH5,10,White
+P4-145,1,Langley,Quercus robur,50.978,-1.687,61,England,autochthonus,Forest,LLY1,10,White
+P4-145,2,Langley,Quercus robur,50.978,-1.687,61,England,autochthonus,Forest,LLY2,10,White
+P4-145,3,Langley,Quercus robur,50.978,-1.687,61,England,autochthonus,Forest,LLY3,10,White
+P4-145,4,Langley,Quercus robur,50.978,-1.687,61,England,autochthonus,Forest,LLY4,10,White
+P4-145,5,Langley,Quercus robur,50.978,-1.687,61,England,autochthonus,Forest,LLY5,10,White
+P4-146,1,Great Ridge Wood,Quercus robur,51.123,-2.1,213,England,autochthonus,Forest,GRD1,8,Yellow
+P4-146,2,Great Ridge Wood,Quercus robur,51.123,-2.1,213,England,autochthonus,Forest,GRD8,8,Yellow
+P4-146,3,Great Ridge Wood,Quercus robur,51.123,-2.1,213,England,autochthonus,Forest,GRD10,10,White
+P4-146,4,Great Ridge Wood,Quercus robur,51.123,-2.1,213,England,autochthonus,Forest,GRD4,8,Yellow
+P4-146,5,Great Ridge Wood,Quercus robur,51.123,-2.1,213,England,autochthonus,Forest,GRD7,10,White
+P4-147,1,Blackmoor,Quercus robur,51.086,-0.886,91,England,autochthonus,Forest,BOO1,9,Orange
+P4-147,2,Blackmoor,Quercus robur,51.086,-0.886,91,England,autochthonus,Forest,BOO2,9,Orange
+P4-147,3,Blackmoor,Quercus robur,51.086,-0.886,91,England,autochthonus,Forest,BOO3,9,Orange
+P4-147,4,Blackmoor,Quercus robur/Intermediate,51.086,-0.886,91,England,autochthonus,Forest,BOO4,9,Orange
+P4-147,5,Blackmoor,Quercus robur,51.086,-0.886,91,England,autochthonus,Forest,BOO5,9,Orange
+P4-148,1,Whitborne Glebe,Quercus petraea,52.216,-2.405,91,England,autochthonus,Forest,WHG1,8,Yellow
+P4-148,2,Whitborne Glebe,Quercus petraea,52.216,-2.405,91,England,autochthonus,Forest,WHG6,8,Yellow
+P4-148,3,Whitborne Glebe,Quercus petraea,52.216,-2.405,91,England,autochthonus,Forest,WHG3,8,Yellow
+P4-148,4,Whitborne Glebe,Quercus robur/Intermediate,52.216,-2.405,91,England,autochthonus,Forest,WHG4,8,Yellow
+P4-148,5,Whitborne Glebe,Quercus petraea,52.216,-2.405,91,England,autochthonus,Forest,WHG5,8,Yellow
+P4-149,1,Wernwood,Quercus robur,52.087,-2.975,76,England,autochthonus,Forest,WERN,9,Orange
+P4-150,1,Eardisley,Intermediate,52.135,-3.008,109,England,autochthonus,Isolated,ESY1,8,Yellow
+P4-151,1,Moccas Park,Quercus petraea,52.077,-2.963,229,England,autochthonus,Forest,MCC1,10,White
+P4-151,2,Moccas Park,Quercus robur,52.077,-2.963,229,England,autochthonus,Forest,MCC2,10,White
+P4-151,3,Moccas Park,Quercus robur,52.077,-2.963,229,England,autochthonus,Forest,MCC8,10,White
+P4-151,4,Moccas Park,Quercus robur,52.077,-2.963,229,England,autochthonus,Forest,MCC5,8,Yellow
+P4-151,5,Moccas Park,Quercus robur,52.077,-2.963,229,England,autochthonus,Forest,MCC9,8,Yellow
+P4-152,1,Croft Castle,Quercus robur,52.28,-2.821,168,England,autochthonus,Forest,CFT6,10,White
+P4-152,2,Croft Castle,Quercus robur,52.28,-2.821,168,England,autochthonus,Forest,CFT1,10,White
+P4-152,3,Croft Castle,Quercus petraea,52.28,-2.821,168,England,autochthonus,Forest,CFT2,10,White
+P4-152,4,Croft Castle,Quercus robur,52.28,-2.821,168,England,autochthonus,Forest,CFT4,8,Yellow
+P4-152,5,Croft Castle,Quercus petraea,52.28,-2.821,168,England,autochthonus,Forest,CFT5,10,White
+P4-153,1,Wellington Wood,Quercus petraea,52.136,-2.76,152,England,autochthonus,Forest,WLL2,8,Yellow
+P4-153,2,Wellington Wood,Quercus petraea,52.136,-2.76,152,England,autochthonus,Forest,WLL3,8,Yellow
+P4-153,3,Wellington Wood,Quercus petraea,52.136,-2.76,152,England,autochthonus,Forest,WLL4,8,Yellow
+P4-153,4,Wellington Wood,Quercus petraea,52.136,-2.76,152,England,autochthonus,Forest,WLL7,8,Yellow
+P4-153,5,Wellington Wood,Quercus petraea,52.136,-2.76,152,England,autochthonus,Forest,WLL9,8,Yellow
+P4-154,1,Dinmore Hill Woods,Quercus petraea,52.155,-2.716,152,England,autochthonus,Forest,DHL1,10,White
+P4-154,2,Dinmore Hill Woods,Quercus petraea,52.155,-2.716,152,England,autochthonus,Forest,DHL3,10,White
+P4-154,3,Dinmore Hill Woods,Quercus petraea,52.155,-2.716,152,England,autochthonus,Forest,DHL4,10,White
+P4-154,4,Dinmore Hill Woods,Quercus petraea,52.155,-2.716,152,England,autochthonus,Forest,DHL5,8,Yellow
+P4-154,5,Dinmore Hill Woods,Quercus petraea,52.155,-2.716,152,England,autochthonus,Forest,DHL7,10,White
+P4-155,1,Helmeth Hill,Quercus petraea,52.541,-2.781,305,England,autochthonus,Forest,HTH1,8,Yellow
+P4-155,2,Helmeth Hill,Quercus robur,52.541,-2.781,305,England,autochthonus,Forest,HTH2,8,Yellow
+P4-155,3,Helmeth Hill,Quercus petraea,52.541,-2.781,305,England,autochthonus,Forest,HTH3,8,Yellow
+P4-155,4,Helmeth Hill,Intermediate,52.541,-2.781,305,England,autochthonus,Forest,HTH4,8,Yellow
+P4-155,5,Helmeth Hill,Quercus robur,52.541,-2.781,305,England,autochthonus,Forest,HTH5,8,Yellow
+P4-156,1,Wolverton Wood,Quercus petraea,52.478,-2.78,244,England,autochthonus,Forest,WVN1,10,White
+P4-156,2,Wolverton Wood,Quercus petraea,52.478,-2.78,244,England,autochthonus,Forest,WVN2,10,White
+P4-156,3,Wolverton Wood,Quercus petraea,52.478,-2.78,244,England,autochthonus,Forest,WVN3,10,White
+P4-156,4,Wolverton Wood,Quercus petraea,52.478,-2.78,244,England,autochthonus,Forest,WVN4,8,Yellow
+P4-156,5,Wolverton Wood,Quercus petraea,52.478,-2.78,244,England,autochthonus,Forest,WVN6,10,White
+P4-157,1,Chaddesley,Quercus petraea,52.355,-2.132,122,England,autochthonus,Forest,CDS1,9,Orange
+P4-157,2,Chaddesley,Quercus petraea,52.355,-2.132,122,England,autochthonus,Forest,CDS2,9,Orange
+P4-157,3,Chaddesley,Quercus robur,52.355,-2.132,122,England,autochthonus,Forest,CDS3,9,Orange
+P4-157,4,Chaddesley,Quercus petraea,52.355,-2.132,122,England,autochthonus,Forest,CDS4,9,Orange
+P4-157,5,Chaddesley,Quercus petraea,52.355,-2.132,122,England,autochthonus,Forest,CDS5,9,Orange
+P4-158,1,Pepper Wood,Quercus petraea,52.373,-2.103,152,England,autochthonus,Forest,PPP3,8,Yellow
+P4-158,2,Pepper Wood,Quercus petraea,52.373,-2.103,152,England,autochthonus,Forest,PPP2,8,Yellow
+P4-158,3,Pepper Wood,Quercus petraea,52.373,-2.103,152,England,autochthonus,Forest,PPP1,8,Yellow
+P4-158,4,Pepper Wood,Quercus petraea,52.373,-2.103,152,England,autochthonus,Forest,PPP4,8,Yellow
+P4-158,5,Pepper Wood,Quercus robur,52.373,-2.103,152,England,autochthonus,Forest,PPP5,8,Yellow
+P4-159,1,Nunnery Wood,Quercus petraea,52.188,-2.18,61,England,autochthonus,Forest,NNN1,10,White
+P4-159,2,Nunnery Wood,Quercus robur,52.188,-2.18,61,England,autochthonus,Forest,NNN2,10,White
+P4-159,3,Nunnery Wood,Intermediate,52.188,-2.18,61,England,autochthonus,Forest,NNN3,10,White
+P4-159,4,Nunnery Wood,Quercus robur/Intermediate,52.188,-2.18,61,England,autochthonus,Forest,NNN4,10,White
+P4-159,5,Nunnery Wood,Quercus robur,52.188,-2.18,61,England,autochthonus,Forest,NNN5,10,White
+P4-160,1,Collyweston Great wood,Quercus petraea,52.597,-0.523,76,England,autochthonus,Forest,CLL7,14,Red
+P4-160,2,Collyweston Great wood,Quercus petraea/Intermediate,52.597,-0.523,76,England,autochthonus,Forest,CLL2,14,Red
+P4-160,3,Collyweston Great wood,Quercus robur,52.597,-0.523,76,England,autochthonus,Forest,CLL6,8,Yellow
+P4-160,4,Collyweston Great wood,Intermediate,52.597,-0.523,76,England,autochthonus,Forest,CLL8,9,Orange
+P4-160,5,Collyweston Great wood,Quercus robur,52.597,-0.523,76,England,autochthonus,Forest,CLL9,8,Yellow
+P4-161,1,Sherwood Forest,Quercus robur/Intermediate,53.204,-1.07,76,England,autochthonus,Forest,SOO1,9,Orange
+P4-161,2,Sherwood Forest,Quercus petraea,53.204,-1.07,76,England,autochthonus,Forest,SOO2,9,Orange
+P4-161,3,Sherwood Forest,Quercus robur/Intermediate,53.204,-1.07,76,England,autochthonus,Forest,SOO3,9,Orange
+P4-161,4,Sherwood Forest,Quercus robur/Intermediate,53.204,-1.07,76,England,autochthonus,Forest,SOO4,9,Orange
+P4-161,5,Sherwood Forest,Quercus robur/Intermediate,53.204,-1.07,76,England,autochthonus,Forest,SOO5,9,Orange
+P4-162,1,Ryton Wood,Intermediate,52.344,-1.442,91,England,autochthonus,Forest,RYO1,9,Orange
+P4-162,2,Ryton Wood,Quercus robur,52.344,-1.442,91,England,autochthonus,Forest,RYO2,9,Orange
+P4-162,3,Ryton Wood,Quercus robur,52.344,-1.442,91,England,autochthonus,Forest,RYO3,9,Orange
+P4-162,4,Ryton Wood,Quercus robur,52.344,-1.442,91,England,autochthonus,Forest,RYO4,9,Orange
+P4-162,5,Ryton Wood,Quercus robur,52.344,-1.442,91,England,autochthonus,Forest,RYO5,9,Orange
+P4-163,1,Piles Coppice,Quercus petraea,52.389,-1.442,76,England,autochthonus,Forest,PCP1,8,Yellow
+P4-163,2,Piles Coppice,Quercus robur,52.389,-1.442,76,England,autochthonus,Forest,PCP2,9,Orange
+P4-163,3,Piles Coppice,Quercus robur,52.389,-1.442,76,England,autochthonus,Forest,PCP3,8,Yellow
+P4-163,4,Piles Coppice,Quercus robur,52.389,-1.442,76,England,autochthonus,Forest,PCP4,8,Yellow
+P4-163,5,Piles Coppice,Quercus petraea,52.389,-1.442,76,England,autochthonus,Forest,PCP5,9,Orange
+P4-164,1,Morralee Wood,Quercus robur/Intermediate,54.961,-2.312,152,England,autochthonus,Forest,MRR1,10,White
+P4-164,2,Morralee Wood,Quercus robur/Intermediate,54.961,-2.312,152,England,autochthonus,Forest,MRR2,10,White
+P4-164,3,Morralee Wood,Intermediate,54.961,-2.312,152,England,autochthonus,Forest,MRR3,10,White
+P4-164,4,Morralee Wood,Quercus petraea,54.961,-2.312,152,England,autochthonus,Forest,MRR4,10,White
+P4-164,5,Morralee Wood,Quercus petraea,54.961,-2.312,152,England,autochthonus,Forest,MRR5,10,White
+P4-165,1,Briar Wood,Quercus petraea,54.952,-2.328,152,England,autochthonus,Forest,BRR1,10,White
+P4-165,2,Briar Wood,Quercus petraea,54.952,-2.328,152,England,autochthonus,Forest,BRR2,10,White
+P4-165,3,Briar Wood,Quercus petraea,54.952,-2.328,152,England,autochthonus,Forest,BRR3,10,White
+P4-165,4,Briar Wood,Quercus petraea,54.952,-2.328,152,England,autochthonus,Forest,BRR4,10,White
+P4-165,5,Briar Wood,Quercus petraea/Intermediate,54.952,-2.328,152,England,autochthonus,Forest,BRR5,10,White
+P4-166,1,Collinpark Wood,Quercus petraea,51.95,-2.364,46,England,autochthonus,Forest,CRK1,24,Pale Blue
+P4-166,2,Collinpark Wood,Quercus petraea,51.95,-2.364,46,England,autochthonus,Forest,CRK2,24,Pale Blue
+P4-166,3,Collinpark Wood,Quercus petraea,51.95,-2.364,46,England,autochthonus,Forest,CRK3,24,Pale Blue
+P4-166,4,Collinpark Wood,Quercus petraea,51.95,-2.364,46,England,autochthonus,Forest,CRK4,24,Pale Blue
+P4-166,5,Collinpark Wood,Intermediate,51.95,-2.364,46,England,autochthonus,Forest,CRK5,24,Pale Blue
+P4-167,1,The Hundalls,Intermediate,51.723,-2.666,235,England,autochthonus,Forest,HLL1,8,Yellow
+P4-167,2,The Hundalls,Quercus petraea,51.723,-2.666,235,England,autochthonus,Forest,HLL2,8,Yellow
+P4-167,3,The Hundalls,Quercus petraea,51.723,-2.666,235,England,autochthonus,Forest,HLL3,8,Yellow
+P4-167,4,The Hundalls,Quercus petraea,51.723,-2.666,235,England,autochthonus,Forest,HLL4,8,Yellow
+P4-167,5,The Hundalls,Quercus petraea,51.723,-2.666,235,England,autochthonus,Forest,HLL5,8,Yellow
+P4-168,1,Lady Park Wood,Intermediate,51.827,-2.66,152,England,autochthonus,Forest,LDP1,8,Yellow
+P4-168,2,Lady Park Wood,Quercus robur,51.827,-2.66,152,England,autochthonus,Forest,LDP2,8,Yellow
+P4-168,3,Lady Park Wood,Quercus petraea,51.827,-2.66,152,England,autochthonus,Forest,LDP3,8,Yellow
+P4-168,4,Lady Park Wood,Quercus petraea,51.827,-2.66,152,England,autochthonus,Forest,LDP4,9,Orange
+P4-168,5,Lady Park Wood,Quercus petraea,51.827,-2.66,152,England,autochthonus,Forest,LDP5,9,Orange
+P4-169,1,Shaptor Wood,Quercus robur,50.612,-3.675,152,England,autochthonus,Forest,SHP1,8,Yellow
+P4-169,2,Shaptor Wood,Quercus robur,50.612,-3.675,152,England,autochthonus,Forest,SHP2,8,Yellow
+P4-169,3,Shaptor Wood,Quercus robur,50.612,-3.675,152,England,autochthonus,Forest,SHP3,8,Yellow
+P4-169,4,Shaptor Wood,Quercus robur,50.612,-3.675,152,England,autochthonus,Forest,SHP4,8,Yellow
+P4-169,5,Shaptor Wood,Quercus robur,50.612,-3.675,152,England,autochthonus,Forest,SHP5,8,Yellow
+P4-170,1,Long Itchington,Quercus robur,52.263,-1.428,107,England,autochthonus,Forest,LCH1,9,Orange
+P4-170,2,Long Itchington,Quercus robur,52.263,-1.428,107,England,autochthonus,Forest,LCH2,9,Orange
+P4-170,3,Long Itchington,Quercus robur,52.263,-1.428,107,England,autochthonus,Forest,LCH3,9,Orange
+P4-170,4,Long Itchington,Quercus robur,52.263,-1.428,107,England,autochthonus,Forest,LCH4,9,Orange
+P4-170,5,Long Itchington,Quercus robur,52.263,-1.428,107,England,autochthonus,Forest,LCH5,9,Orange
+P4-171,1,Green Lane (Hereford),Quercus robur,52.062,-2.77,76,England,autochthonus,Forest,GHF4,10,White
+P4-171,2,Green Lane (Hereford),Quercus robur,52.062,-2.77,76,England,autochthonus,Forest,GHF6,8,Yellow
+P4-171,3,Green Lane (Hereford),Quercus robur,52.062,-2.77,76,England,autochthonus,Forest,GHF6,8,Yellow
+P4-171,4,Green Lane (Hereford),Quercus petraea,52.062,-2.77,76,England,autochthonus,Forest,GHF9,10,White
+P4-171,5,Green Lane (Hereford),Quercus robur,52.062,-2.77,76,England,autochthonus,Forest,GHF10,10,White
+P4-172,1,Chillingham,Quercus robur,55.532,-1.897,107,England,autochthonus,Forest,CLL1,10,White
+P4-172,2,Chillingham,Quercus robur,55.532,-1.897,107,England,autochthonus,Forest,CLL2,9,Orange
+P4-172,3,Chillingham,Quercus robur,55.532,-1.897,107,England,autochthonus,Forest,CLL3,10,White
+P4-172,4,Chillingham,Quercus robur,55.532,-1.897,107,England,autochthonus,Forest,CLL4,9,Orange
+P4-172,5,Chillingham,Quercus robur,55.532,-1.897,107,England,autochthonus,Forest,CLL5,9,Orange
+P4-173,1,Grasslees,Quercus robur,55.272,-2.071,152,England,autochthonus,Forest,GSS1,10,White
+P4-173,2,Grasslees,Quercus robur,55.272,-2.071,152,England,autochthonus,Forest,GSS2,10,White
+P4-173,3,Grasslees,Quercus robur,55.272,-2.071,152,England,autochthonus,Forest,GSS3,10,White
+P4-173,4,Grasslees,Quercus robur,55.272,-2.071,152,England,autochthonus,Forest,GSS4,10,White
+P4-173,5,Grasslees,Quercus petraea/Intermediate,55.272,-2.071,152,England,autochthonus,Forest,GSS5,10,White
+P4-174,1,Holystone North Wood,Quercus petraea,55.308,-2.102,250,England,autochthonus,Forest,HYN1,8,Yellow
+P4-174,2,Holystone North Wood,Quercus petraea,55.308,-2.102,250,England,autochthonus,Forest,HYN2,10,White
+P4-174,3,Holystone North Wood,Quercus robur,55.308,-2.102,250,England,autochthonus,Forest,HYN3,8,Yellow
+P4-174,4,Holystone North Wood,Quercus robur,55.308,-2.102,250,England,autochthonus,Forest,HYN4,10,White
+P4-174,5,Holystone North Wood,Quercus petraea,55.308,-2.102,250,England,autochthonus,Forest,HYN5,10,White
+P4-175,1,Limekiln Wood,Quercus petraea,53.125,-2.206,229,England,autochthonus,Forest,LMK1,10,White
+P4-175,2,Limekiln Wood,Quercus petraea,53.125,-2.206,229,England,autochthonus,Forest,LMK2,10,White
+P4-175,3,Limekiln Wood,Quercus petraea,53.125,-2.206,229,England,autochthonus,Forest,LMK3,10,White
+P4-175,4,Limekiln Wood,Quercus petraea,53.125,-2.206,229,England,autochthonus,Forest,LMK4,10,White
+P4-175,5,Limekiln Wood,Quercus petraea,53.125,-2.206,229,England,autochthonus,Forest,LMK5,10,White
+P4-176,1,Quakers Coppice,Quercus robur/Intermediate,53.087,-2.412,50,England,autochthonus,Forest,QUK1,8,Yellow
+P4-176,2,Quakers Coppice,Quercus petraea/Intermediate,53.087,-2.412,50,England,autochthonus,Forest,QUK2,8,Yellow
+P4-176,3,Quakers Coppice,Intermediate,53.087,-2.412,50,England,autochthonus,Forest,QUK3,8,Yellow
+P4-176,4,Quakers Coppice,Quercus petraea/Intermediate,53.087,-2.412,50,England,autochthonus,Forest,QUK4,9,Orange
+P4-176,5,Quakers Coppice,Intermediate,53.087,-2.412,50,England,autochthonus,Forest,QUK5,8,Yellow
+P4-177,1,Cotterill Clough,Quercus robur,53.351,-2.293,50,England,autochthonus,Forest,CTT1,9,Orange
+P4-177,2,Cotterill Clough,Quercus robur,53.351,-2.293,50,England,autochthonus,Forest,CTT2,9,Orange
+P4-177,3,Cotterill Clough,Quercus robur,53.351,-2.293,50,England,autochthonus,Forest,CTT3,9,Orange
+P4-177,4,Cotterill Clough,Quercus robur,53.351,-2.293,50,England,autochthonus,Forest,CTT4,9,Orange
+P4-177,5,Cotterill Clough,Quercus robur,53.351,-2.293,50,England,autochthonus,Forest,CTT5,9,Orange
+P4-178,1,The Quinta,Intermediate,53.2,-2.298,70,England,autochthonus,Forest,TQU1,9,Orange
+P4-178,2,The Quinta,Quercus robur,53.2,-2.298,70,England,autochthonus,Forest,TQU2,9,Orange
+P4-178,3,The Quinta,Quercus robur,53.2,-2.298,70,England,autochthonus,Forest,TQU3,9,Orange
+P4-178,4,The Quinta,Quercus robur,53.2,-2.298,70,England,autochthonus,Forest,TQU4,9,Orange
+P4-178,5,The Quinta,Quercus robur,53.2,-2.298,70,England,autochthonus,Forest,TQU5,9,Orange
+P4-179,1,Warburtons Wood,Quercus robur,53.281,-2.667,30,England,autochthonus,Forest,WRB1,9,Orange
+P4-179,2,Warburtons Wood,Quercus robur,53.281,-2.667,30,England,autochthonus,Forest,WRB2,9,Orange
+P4-179,3,Warburtons Wood,Quercus robur,53.281,-2.667,30,England,autochthonus,Forest,WRB3,9,Orange
+P4-179,4,Warburtons Wood,Quercus robur,53.281,-2.667,30,England,autochthonus,Forest,WRB4,9,Orange
+P4-179,5,Warburtons Wood,Quercus robur/Intermediate,53.281,-2.667,30,England,autochthonus,Forest,WRB5,9,Orange
