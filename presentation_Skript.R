@@ -37,7 +37,7 @@ pie(
 	x = result[c(-1:-2),2],								# Werte
 	labels = result[c(-1:-2),1], 							# Label
 	main = "Anteil der farbigen Baume",						# Titel
-	col = c("orange", "lightblue", "red", "white", "yellow")		# Farben
+	col = c("orange", "lightblue", "red", "white", "yellow")			# Farben
 	)
 
 
@@ -48,8 +48,8 @@ pie(
 sql <- "SELECT Country, count(Country) FROM oak_table WHERE Locality != 'Mittweida' GROUP BY Country"
 result <- dbGetQuery(connection, sql)
 barplot(
-		result[,2],									# Werte
-		xlab = "Länder",								# Beschriftung x-Achse
+		result[,2],								# Werte
+		xlab = "Länder",							# Beschriftung x-Achse
 		ylab = "Anzahl Bäume",							# Beschriftung y-Achse
 		main = "Bäume pro Land",						# Titel
 		names.arg = result[,1], 						# Label
@@ -68,8 +68,8 @@ hist(
 		xlab = 'Höhe über NN',							# Beschriftung x-Achse
 		ylab = 'Anzahl der Bäme',						# Beschriftung y-Achse
 		main = 'Bäume nach Höhe über NN',					# Titel	
-		xlim = c(0, 500),								# Spanne x-Achse
-		ylim = c(0, 250),								# Spanne y-Achse
+		xlim = c(0, 500),							# Spanne x-Achse
+		ylim = c(0, 250),							# Spanne y-Achse
 		col = c('lightgrey')							# Farben
 		)
 
@@ -82,10 +82,10 @@ sql <-"SELECT Latitude, Longitude FROM oak_table WHERE Locality != 'Mittweida'"
 result <- dbGetQuery(con, sql)
 plot(
 		x = result[,1],								# x-Werte
-		y = result[, 2],								# y-Werte
-		type = 'p',									# angezeigte Symbole = Punkt
+		y = result[, 2],							# y-Werte
+		type = 'p',								# angezeigte Symbole = Punkt
 		main = 'Baumstandorte',							# Titel
 		xlab = 'Breitengrad',							# Beschriftung x-Achse
 		ylab = 'Längengrad',							# Beschriftung y-Achse
-		col = c('black')								# Farben
+		col = c('black')							# Farben
 		)
