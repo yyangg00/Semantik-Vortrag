@@ -79,13 +79,17 @@ hist(
 # Plotten der geografischen Daten
 
 sql <-"SELECT Latitude, Longitude FROM oak_table WHERE Locality != 'Mittweida'"
-result <- dbGetQuery(con, sql)
+result <- dbGetQuery(connection, sql)
 plot(
-		x = result[,1],								# x-Werte
-		y = result[, 2],							# y-Werte
+		x = result[,2],								# x-Werte
+		y = result[,1],								# y-Werte
 		type = 'p',								# angezeigte Symbole = Punkt
 		main = 'Baumstandorte',							# Titel
 		xlab = 'Breitengrad',							# Beschriftung x-Achse
 		ylab = 'Längengrad',							# Beschriftung y-Achse
+		ylim = c(2, -6),							# Grenzen y-Achse
 		col = c('black')							# Farben
 		)
+
+sql <- "DROP TABLE oak_table"
+dbGetQuery(connection, sql)
